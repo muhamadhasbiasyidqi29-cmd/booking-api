@@ -1,0 +1,5 @@
+{
+  "name": "venue-api",
+  "version": "1.0.0",
+  "description": "Serverless REST API for sports & study venue booking data in West Java"
+}

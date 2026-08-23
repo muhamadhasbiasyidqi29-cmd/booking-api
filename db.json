@@ -1,0 +1,2145 @@
+{
+  "venues": [
+    {
+      "id": 1,
+      "name": "Progresif Futsal",
+      "category": "Futsal",
+      "location": "Jl. Soekarno Hatta No.785A, Babakan Penghulu, Bandung",
+      "pricePerHour": 150000,
+      "rating": 4.6,
+      "popular": true,
+      "capacity": 10,
+      "facilities": [
+        "Lapangan sintetis & interlock",
+        "Toilet & shower",
+        "Food court",
+        "Parkir luas"
+      ],
+      "description": "Progresif Futsal berada di kompleks Sigma Sport & Community Center dengan dua lapangan futsal yang biasa dipakai latihan rutin maupun main santai.",
+      "schedule": [
+        "07:00 - 09:00",
+        "13:00 - 15:00",
+        "18:00 - 20:00",
+        "20:00 - 22:00"
+      ],
+      "image": "https://loremflickr.com/800/600/futsal,indoor?lock=1"
+    },
+    {
+      "id": 2,
+      "name": "Parahyangan Futsal Hall",
+      "category": "Futsal",
+      "location": "Jl. Dalem Kaum No.54, Regol, Bandung",
+      "pricePerHour": 150000,
+      "rating": 4.3,
+      "popular": false,
+      "capacity": 10,
+      "facilities": [
+        "Lapangan indoor",
+        "Toilet",
+        "Parkir",
+        "Ruang tunggu"
+      ],
+      "description": "Parahyangan Futsal Hall terletak di Parahyangan Plaza, jadi pilihan yang gampang diakses buat main futsal rutin di tengah kota.",
+      "schedule": [
+        "08:00 - 10:00",
+        "12:00 - 14:00",
+        "16:00 - 18:00",
+        "19:00 - 21:00"
+      ],
+      "image": "https://loremflickr.com/800/600/futsal,indoor?lock=2"
+    },
+    {
+      "id": 3,
+      "name": "YPKP Futsal",
+      "category": "Futsal",
+      "location": "Jl. PHH Mustofa No.70, Cikutra, Kec. Cibeunying Kidul, Kota Bandung",
+      "pricePerHour": 120000,
+      "rating": 4.2,
+      "popular": false,
+      "capacity": 10,
+      "facilities": [
+        "5 lapangan pilihan",
+        "Toilet",
+        "Parkir",
+        "Kantin"
+      ],
+      "description": "YPKP Futsal punya lima lapangan dengan tarif berjenjang tergantung jam, cocok buat komunitas yang main rutin tiap minggu.",
+      "schedule": [
+        "08:00 - 12:00",
+        "12:00 - 16:00",
+        "16:00 - 20:00",
+        "20:00 - 24:00"
+      ],
+      "image": "https://loremflickr.com/800/600/futsal,indoor?lock=3"
+    },
+    {
+      "id": 4,
+      "name": "Futsal Shakti Taridi",
+      "category": "Futsal",
+      "location": "Jl. Parakan Saat No.9, Cisaranten Endah, Bandung",
+      "pricePerHour": 140000,
+      "rating": 4.4,
+      "popular": true,
+      "capacity": 10,
+      "facilities": [
+        "3 lapangan sintetis",
+        "Musholla",
+        "Kantin",
+        "Parkir luas",
+        "Penyewaan sepatu"
+      ],
+      "description": "Futsal Shakti Taridi dikelilingi sawah dan pepohonan sehingga suasananya lebih adem, dengan tiga lapangan sintetis berlampu LED.",
+      "schedule": [
+        "08:00 - 13:00",
+        "13:00 - 17:00",
+        "17:00 - 21:00",
+        "21:00 - 24:00"
+      ],
+      "image": "https://loremflickr.com/800/600/futsal,indoor?lock=4"
+    },
+    {
+      "id": 5,
+      "name": "MU Futsal",
+      "category": "Futsal",
+      "location": "Jl. Sadang No.62, Margahayu Tengah, Kabupaten Bandung",
+      "pricePerHour": 100000,
+      "rating": 4.1,
+      "popular": false,
+      "capacity": 10,
+      "facilities": [
+        "Lapangan sintetis",
+        "Ruang ganti",
+        "Parkir"
+      ],
+      "description": "MU Futsal menawarkan tarif ramah kantong buat kamu yang mau main futsal santai bareng teman tanpa bikin bokek.",
+      "schedule": [
+        "09:00 - 11:00",
+        "15:00 - 17:00",
+        "19:00 - 21:00"
+      ],
+      "image": "https://loremflickr.com/800/600/futsal,indoor?lock=5"
+    },
+    {
+      "id": 6,
+      "name": "EduPlex",
+      "category": "Co-working",
+      "location": "Jl. Ir. H. Juanda No.84, Lebak Gede, Kec. Coblong, Kota Bandung",
+      "pricePerHour": 25000,
+      "rating": 4.7,
+      "popular": true,
+      "capacity": 8,
+      "facilities": [
+        "Wifi cepat",
+        "Loker pribadi",
+        "Beanbag",
+        "Cafe 24 jam di lantai 1",
+        "AC"
+      ],
+      "description": "EduPlex buka 24 jam nonstop dan jadi favorit mahasiswa Bandung buat kerja kelompok maupun begadang ngerjain deadline.",
+      "schedule": [
+        "08:00 - 11:00",
+        "13:00 - 16:00",
+        "19:00 - 22:00",
+        "22:00 - 01:00"
+      ],
+      "image": "https://loremflickr.com/800/600/coworking,office?lock=6"
+    },
+    {
+      "id": 7,
+      "name": "CO&CO Space",
+      "category": "Co-working",
+      "location": "Jl. Dipati Ukur No.5, Lebakgede, Kec. Coblong, Kota Bandung",
+      "pricePerHour": 30000,
+      "rating": 4.6,
+      "popular": true,
+      "capacity": 10,
+      "facilities": [
+        "Wifi cepat",
+        "Free flow kopi & teh",
+        "Ruang meeting",
+        "Loker",
+        "Area outdoor"
+      ],
+      "description": "CO&CO Space punya konsep industrial modern, sering dipakai freelancer dan startup yang butuh suasana kerja serius tapi santai.",
+      "schedule": [
+        "09:00 - 11:00",
+        "11:00 - 13:00",
+        "14:00 - 16:00",
+        "16:00 - 18:00"
+      ],
+      "image": "https://loremflickr.com/800/600/coworking,office?lock=7"
+    },
+    {
+      "id": 8,
+      "name": "Ruangreka Coworking Space",
+      "category": "Co-working",
+      "location": "Jl. Raden Patah No.28, Lebakgede, Kec. Coblong, Kota Bandung",
+      "pricePerHour": 20000,
+      "rating": 4.5,
+      "popular": false,
+      "capacity": 6,
+      "facilities": [
+        "Wifi",
+        "Free flow teh & kopi",
+        "Ruang seminar",
+        "Mushola",
+        "Guest house"
+      ],
+      "description": "Ruangreka sudah berdiri sejak 2014 dan dikenal sebagai ruang kerja yang nyaman buat pengusaha dan pemilik startup di Bandung Utara.",
+      "schedule": [
+        "09:00 - 12:00",
+        "13:00 - 16:00",
+        "16:00 - 19:00"
+      ],
+      "image": "https://loremflickr.com/800/600/coworking,office?lock=8"
+    },
+    {
+      "id": 9,
+      "name": "Point Lab Co-working Space",
+      "category": "Co-working",
+      "location": "Jl. Banda No.30, Citarum, Kec. Bandung Wetan, Kota Bandung",
+      "pricePerHour": 30000,
+      "rating": 4.5,
+      "popular": false,
+      "capacity": 8,
+      "facilities": [
+        "Wifi cepat",
+        "Kopi & teh gratis",
+        "3 tema ruangan",
+        "Lokasi strategis"
+      ],
+      "description": "Point Lab dikelola PT Pos Properti Indonesia dengan tiga tema ruang kerja berbeda: Colours, Forest, dan Space.",
+      "schedule": [
+        "08:00 - 20:00",
+        "09:00 - 12:00",
+        "13:00 - 16:00",
+        "16:00 - 19:00"
+      ],
+      "image": "https://loremflickr.com/800/600/coworking,office?lock=9"
+    },
+    {
+      "id": 10,
+      "name": "NextSPACE by UnionSPACE",
+      "category": "Co-working",
+      "location": "Jl. Trunojoyo No.11, Citarum, Kec. Bandung Wetan, Kota Bandung",
+      "pricePerHour": 35000,
+      "rating": 4.6,
+      "popular": true,
+      "capacity": 12,
+      "facilities": [
+        "Wifi cepat",
+        "Ruang rapat",
+        "Rooftop",
+        "Musholla",
+        "Photo booth"
+      ],
+      "description": "NextSPACE berlokasi di tengah kota dengan rooftop yang nyaman buat bersantai setelah kerja seharian.",
+      "schedule": [
+        "09:00 - 11:00",
+        "13:00 - 15:00",
+        "16:00 - 18:00"
+      ],
+      "image": "https://loremflickr.com/800/600/coworking,office?lock=10"
+    },
+    {
+      "id": 11,
+      "name": "Block71 Bandung",
+      "category": "Co-working",
+      "location": "Innovation Factory, Jl. Ir. H. Juanda No.108, Lebakgede, Kec. Coblong, Kota Bandung",
+      "pricePerHour": 30000,
+      "rating": 4.5,
+      "popular": false,
+      "capacity": 10,
+      "facilities": [
+        "Buka 24 jam",
+        "Ruang meeting besar",
+        "Booth telepon",
+        "Cafe di dalam gedung"
+      ],
+      "description": "Block71 adalah cabang dari coworking milik NUS Enterprise Singapura, cocok buat profesional dengan jam kerja fleksibel.",
+      "schedule": [
+        "08:00 - 12:00",
+        "13:00 - 17:00",
+        "20:00 - 00:00"
+      ],
+      "image": "https://loremflickr.com/800/600/coworking,office?lock=11"
+    },
+    {
+      "id": 12,
+      "name": "Perpustakaan Kota Bandung (Disarpus)",
+      "category": "Study Space",
+      "location": "Jl. Seram No.2, Citarum, Kec. Bandung Wetan, Kota Bandung",
+      "pricePerHour": 10000,
+      "rating": 4.5,
+      "popular": true,
+      "capacity": 15,
+      "facilities": [
+        "Ribuan koleksi buku",
+        "Ruang baca anak",
+        "Akses komputer",
+        "BI Corner"
+      ],
+      "description": "Perpustakaan milik Pemkot Bandung ini punya koleksi lengkap dari literatur klasik sampai buku pelajaran, favorit warga lokal buat nugas.",
+      "schedule": [
+        "08:00 - 12:00",
+        "13:00 - 15:00"
+      ],
+      "image": "https://loremflickr.com/800/600/library,reading?lock=12"
+    },
+    {
+      "id": 13,
+      "name": "Dispusipda Jawa Barat",
+      "category": "Study Space",
+      "location": "Jl. Kawaluyaan Indah II No.4, Jatisari, Kec. Buahbatu, Kota Bandung",
+      "pricePerHour": 10000,
+      "rating": 4.4,
+      "popular": false,
+      "capacity": 20,
+      "facilities": [
+        "Ruang baca luas",
+        "AC",
+        "Area anak & dewasa terpisah",
+        "Parkir luas"
+      ],
+      "description": "Dinas Perpustakaan dan Kearsipan Daerah Jawa Barat ini adalah salah satu perpustakaan terbesar di Bandung dengan tiga lantai ruang baca.",
+      "schedule": [
+        "08:00 - 12:00",
+        "13:00 - 15:30"
+      ],
+      "image": "https://loremflickr.com/800/600/library,reading?lock=13"
+    },
+    {
+      "id": 14,
+      "name": "Bandung Creative Hub Library",
+      "category": "Study Space",
+      "location": "Jl. Laswi No.7, Kacapiring, Kec. Batununggal, Kota Bandung",
+      "pricePerHour": 10000,
+      "rating": 4.6,
+      "popular": true,
+      "capacity": 12,
+      "facilities": [
+        "12 ribu koleksi buku",
+        "Area kerja nyaman",
+        "Wifi",
+        "Mushola",
+        "Parkir gratis"
+      ],
+      "description": "Perpustakaan di dalam Bandung Creative Hub ini punya suasana bersih dan nyaman, cocok buat nugas sambil healing.",
+      "schedule": [
+        "09:30 - 12:00",
+        "13:00 - 16:30"
+      ],
+      "image": "https://loremflickr.com/800/600/library,reading?lock=14"
+    },
+    {
+      "id": 15,
+      "name": "Perpustakaan Gasibu",
+      "category": "Study Space",
+      "location": "Lapangan Gasibu, Jl. Gazebo, Kota Bandung",
+      "pricePerHour": 10000,
+      "rating": 4.2,
+      "popular": false,
+      "capacity": 6,
+      "facilities": [
+        "Ruang baca ber-AC",
+        "Lokasi strategis pinggir lapangan",
+        "Parkir"
+      ],
+      "description": "Perpustakaan mungil di pinggir Lapangan Gasibu ini pas buat mampir baca-baca santai sambil istirahat setelah olahraga.",
+      "schedule": [
+        "09:00 - 12:00",
+        "14:00 - 17:00"
+      ],
+      "image": "https://loremflickr.com/800/600/library,reading?lock=15"
+    },
+    {
+      "id": 16,
+      "name": "Pitimoss Fun Library",
+      "category": "Study Space",
+      "location": "Jl. Banda No.12-S, Kota Bandung",
+      "pricePerHour": 15000,
+      "rating": 4.5,
+      "popular": false,
+      "capacity": 8,
+      "facilities": [
+        "Ruang indoor & outdoor",
+        "Koleksi buku update",
+        "Buka tiap hari"
+      ],
+      "description": "Pitimoss Fun Library adalah perpustakaan swasta yang buka tiap hari termasuk libur, dengan pilihan ruang indoor maupun outdoor.",
+      "schedule": [
+        "08:00 - 12:00",
+        "13:00 - 17:00",
+        "18:00 - 21:00"
+      ],
+      "image": "https://loremflickr.com/800/600/library,reading?lock=16"
+    },
+    {
+      "id": 17,
+      "name": "Two Cents Coffee",
+      "category": "Cafe Meeting",
+      "location": "Jl. Ir. H. Juanda No.155, Dago Bawah, Kota Bandung",
+      "pricePerHour": 35000,
+      "rating": 4.6,
+      "popular": true,
+      "capacity": 10,
+      "facilities": [
+        "Wifi cepat",
+        "Area indoor & outdoor",
+        "Colokan tiap meja",
+        "Menu lengkap"
+      ],
+      "description": "Two Cents Coffee punya konsep modern yang pewe buat kerja santai, nugas, atau rapat bareng tim kecil.",
+      "schedule": [
+        "09:00 - 11:00",
+        "13:00 - 15:00",
+        "16:00 - 18:00",
+        "19:00 - 21:00"
+      ],
+      "image": "https://loremflickr.com/800/600/cafe,coffeeshop?lock=17"
+    },
+    {
+      "id": 18,
+      "name": "Brewspace",
+      "category": "Cafe Meeting",
+      "location": "Jl. Prabu Dimuntur No.22, Citarum, Kec. Bandung Wetan, Kota Bandung",
+      "pricePerHour": 30000,
+      "rating": 4.5,
+      "popular": false,
+      "capacity": 8,
+      "facilities": [
+        "Wifi",
+        "Colokan banyak",
+        "Meja & kursi nyaman"
+      ],
+      "description": "Brewspace jadi pilihan buat kamu yang mau buka laptop dan kerja fokus sambil ngopi di pusat kota.",
+      "schedule": [
+        "08:00 - 11:00",
+        "14:00 - 17:00",
+        "19:00 - 22:00"
+      ],
+      "image": "https://loremflickr.com/800/600/cafe,coffeeshop?lock=18"
+    },
+    {
+      "id": 19,
+      "name": "Ruang Duduk",
+      "category": "Cafe Meeting",
+      "location": "Jl. Wayang No.2, Burangrang, Kec. Lengkong, Kota Bandung",
+      "pricePerHour": 30000,
+      "rating": 4.7,
+      "popular": true,
+      "capacity": 15,
+      "facilities": [
+        "Wifi",
+        "Colokan tersebar",
+        "2 ruang meeting",
+        "Mushola",
+        "Smoking room"
+      ],
+      "description": "Ruang Duduk bikin kamu betah nugas berlama-lama dengan suasana ala kantor modern dan dua ruang meeting yang bisa dipesan.",
+      "schedule": [
+        "08:00 - 24:00",
+        "10:00 - 13:00",
+        "15:00 - 18:00",
+        "20:00 - 23:00"
+      ],
+      "image": "https://loremflickr.com/800/600/cafe,coffeeshop?lock=19"
+    },
+    {
+      "id": 20,
+      "name": "Marka Coffee & Kitchen",
+      "category": "Cafe Meeting",
+      "location": "Jl. Talaga Bodas No.32, Malabar, Kec. Lengkong, Kota Bandung",
+      "pricePerHour": 100000,
+      "rating": 4.6,
+      "popular": false,
+      "capacity": 15,
+      "facilities": [
+        "Ruang meeting privat",
+        "Proyektor",
+        "Wifi",
+        "Menu lengkap"
+      ],
+      "description": "Marka Coffee & Kitchen menyediakan ruang meeting privat berkapasitas 10-15 orang, pas buat diskusi kerja yang lebih serius.",
+      "schedule": [
+        "09:00 - 12:00",
+        "13:00 - 16:00",
+        "17:00 - 20:00"
+      ],
+      "image": "https://loremflickr.com/800/600/cafe,coffeeshop?lock=20"
+    },
+    {
+      "id": 21,
+      "name": "Bober Cafe",
+      "category": "Cafe Meeting",
+      "location": "Jl. Lembong No.8, Braga, Kec. Sumur Bandung, Kota Bandung",
+      "pricePerHour": 30000,
+      "rating": 4.8,
+      "popular": true,
+      "capacity": 20,
+      "facilities": [
+        "Buka 24 jam",
+        "Area smoking & non-smoking",
+        "Ruang meeting",
+        "Menu lokal & western"
+      ],
+      "description": "Bober Cafe udah jadi legenda di Bandung, bertahan lebih dari 20 tahun dan tetap ramai buat nongkrong maupun kerja sampai pagi.",
+      "schedule": [
+        "00:00 - 06:00",
+        "08:00 - 12:00",
+        "13:00 - 17:00",
+        "19:00 - 23:00"
+      ],
+      "image": "https://loremflickr.com/800/600/cafe,coffeeshop?lock=21"
+    },
+    {
+      "id": 22,
+      "name": "Maestro Sport Center",
+      "category": "Multi Sport",
+      "location": "Jalan Tengah No.13, Margaasih, Kabupaten Bandung, Jawa Barat",
+      "pricePerHour": 50000,
+      "rating": 4.7,
+      "popular": true,
+      "capacity": null,
+      "facilities": [
+        "Lapangan basket",
+        "Lapangan futsal",
+        "Lapangan badminton",
+        "Musholla",
+        "Parkir mobil",
+        "Parkir motor",
+        "Ruang ganti",
+        "Toilet",
+        "WiFi"
+      ],
+      "description": "Pusat olahraga dengan lapangan basket, futsal, dan badminton menggunakan lantai interlock.",
+      "schedule": [],
+      "image": "https://loremflickr.com/800/600/sportscenter,gym?lock=22"
+    },
+    {
+      "id": 23,
+      "name": "Badminkong",
+      "category": "Badminton",
+      "location": "Jalan Mekar Kencana No.6, Mekar Wangi, Kota Bandung, Jawa Barat",
+      "pricePerHour": 65000,
+      "rating": 5.0,
+      "popular": true,
+      "capacity": null,
+      "facilities": [
+        "3 lapangan badminton",
+        "Lapangan vinyl standar BWF",
+        "Cafe & resto",
+        "Hot shower",
+        "Parkir mobil",
+        "Parkir motor"
+      ],
+      "description": "Venue badminton dengan tiga lapangan vinyl standar BWF dan jam operasional 08:00 sampai 22:00.",
+      "schedule": [
+        "08:00 - 10:00",
+        "10:00 - 12:00",
+        "13:00 - 15:00",
+        "15:00 - 17:00",
+        "18:00 - 20:00",
+        "20:00 - 22:00"
+      ],
+      "image": "https://loremflickr.com/800/600/badminton,court?lock=23"
+    },
+    {
+      "id": 24,
+      "name": "The Saintuary Sports Hub",
+      "category": "Multi Sport",
+      "location": "Bandung, Jawa Barat",
+      "pricePerHour": 75000,
+      "rating": null,
+      "popular": true,
+      "capacity": null,
+      "facilities": [
+        "Futsal",
+        "Basket",
+        "Badminton",
+        "Academy",
+        "Live broadcast",
+        "Culinary",
+        "Pro shop",
+        "Musholla",
+        "Ruang ganti",
+        "Shower",
+        "Toilet"
+      ],
+      "description": "Sports hub yang menyediakan fasilitas basket, futsal, badminton dan berbagai fasilitas pendukung.",
+      "schedule": [],
+      "image": "https://loremflickr.com/800/600/sportscenter,gym?lock=24"
+    },
+    {
+      "id": 25,
+      "name": "Covina Sports Center",
+      "category": "Multi Sport",
+      "location": "Jl. Kebon Kopi No.173, Kota Bandung, Jawa Barat",
+      "pricePerHour": 44000,
+      "rating": 4.9,
+      "popular": true,
+      "capacity": null,
+      "facilities": [
+        "Padel",
+        "Gym",
+        "Dance studio",
+        "Futsal",
+        "Badminton",
+        "Basket",
+        "Tenis meja",
+        "Billiard",
+        "Cafe",
+        "Musholla",
+        "Parkir",
+        "Ruang ganti",
+        "Shower",
+        "Toilet",
+        "WiFi"
+      ],
+      "description": "Pusat olahraga dan gaya hidup dengan berbagai fasilitas olahraga dan fasilitas pendukung dalam satu area.",
+      "schedule": [],
+      "image": "https://loremflickr.com/800/600/sportscenter,gym?lock=25"
+    },
+    {
+      "id": 26,
+      "name": "OBC Sport Center",
+      "category": "Multi Sport",
+      "location": "Jl. Rancabentang I No.12, Ciumbuleuit, Cidadap, Kota Bandung, Jawa Barat",
+      "pricePerHour": 65000,
+      "rating": 4.7,
+      "popular": true,
+      "capacity": null,
+      "facilities": [
+        "Futsal",
+        "Basket",
+        "Badminton",
+        "Voli",
+        "Tenis meja",
+        "Billiard",
+        "Cafe & resto",
+        "Musholla",
+        "Parkir"
+      ],
+      "description": "Sport center yang menyediakan berbagai jenis olahraga seperti futsal, basket, badminton, voli, tenis meja dan billiard.",
+      "schedule": [],
+      "image": "https://loremflickr.com/800/600/sportscenter,gym?lock=26"
+    },
+    {
+      "id": 27,
+      "name": "Game On Arena",
+      "category": "Multi Sport",
+      "location": "Jl. Sekekukumbung No.98, Mekar Rahayu, Margaasih, Kabupaten Bandung, Jawa Barat 40218",
+      "pricePerHour": 55000,
+      "rating": null,
+      "popular": true,
+      "capacity": null,
+      "facilities": [
+        "4 lapangan badminton",
+        "1 lapangan basket full size",
+        "Hot shower",
+        "Cafe",
+        "Parkir",
+        "Musholla",
+        "Chill area",
+        "WC"
+      ],
+      "description": "Arena olahraga dengan empat lapangan badminton dan satu lapangan basket full size.",
+      "schedule": [],
+      "image": "https://loremflickr.com/800/600/sportscenter,gym?lock=27"
+    },
+    {
+      "id": 28,
+      "name": "Vivo Arena",
+      "category": "Multi Sport",
+      "location": "Jl. Melong Asih No.69C, Cijerah, Bandung Kulon, Kota Bandung, Jawa Barat 40213",
+      "pricePerHour": 50000,
+      "rating": 1.0,
+      "popular": false,
+      "capacity": null,
+      "facilities": [
+        "3 lapangan badminton",
+        "2 lapangan pickleball",
+        "1 lapangan futsal",
+        "Parkir",
+        "Toilet",
+        "WiFi"
+      ],
+      "description": "Arena olahraga dengan tiga lapangan badminton, dua lapangan pickleball dan satu lapangan futsal.",
+      "schedule": [],
+      "image": "https://loremflickr.com/800/600/sportscenter,gym?lock=28"
+    },
+    {
+      "id": 29,
+      "name": "Gaswarriors Gedung Sinergi 8",
+      "category": "Multi Sport",
+      "location": "Bandung, Jawa Barat",
+      "pricePerHour": 880000,
+      "rating": null,
+      "popular": false,
+      "capacity": null,
+      "facilities": [
+        "Futsal",
+        "Badminton",
+        "Basket",
+        "Cafe",
+        "Musholla",
+        "Ruang ganti",
+        "Toilet",
+        "WiFi",
+        "Tribun penonton"
+      ],
+      "description": "Lapangan multifungsi yang dapat digunakan untuk futsal, badminton dan basket.",
+      "schedule": [],
+      "image": "https://loremflickr.com/800/600/sportscenter,gym?lock=29"
+    },
+    {
+      "id": 30,
+      "name": "PB Mutiara Cardinal",
+      "category": "Badminton",
+      "location": "Jl. Babakan Cibeureum No.55, Campaka, Andir, Kota Bandung, Jawa Barat",
+      "pricePerHour": 35000,
+      "rating": 4.5,
+      "popular": true,
+      "capacity": null,
+      "facilities": [
+        "Lapangan badminton",
+        "Parkir"
+      ],
+      "description": "Klub badminton di kawasan Andir, Bandung.",
+      "schedule": [
+        "08:00 - 23:00"
+      ],
+      "image": "https://loremflickr.com/800/600/badminton,court?lock=30"
+    },
+    {
+      "id": 31,
+      "name": "Elite Arena",
+      "category": "Basket",
+      "location": "Jl. Cikutra Baru No.25, Neglasari, Cibeunying Kaler, Kota Bandung, Jawa Barat",
+      "pricePerHour": 90000,
+      "rating": 4.7,
+      "popular": true,
+      "capacity": null,
+      "facilities": [
+        "Lapangan basket"
+      ],
+      "description": "Lapangan basket di kawasan Cikutra Baru, Bandung.",
+      "schedule": [
+        "06:00 - 22:00"
+      ],
+      "image": "https://loremflickr.com/800/600/basketball,court?lock=31"
+    },
+    {
+      "id": 32,
+      "name": "Ourena Padel Kopo",
+      "category": "Multi Sport",
+      "location": "Pasar Segar Kopo Lt. 2, Jl. Taman Kopo Indah 2, Margahayu Selatan, Kabupaten Bandung, Jawa Barat",
+      "pricePerHour": 50000,
+      "rating": 4.9,
+      "popular": true,
+      "capacity": null,
+      "facilities": [
+        "Badminton",
+        "Padel",
+        "Futsal",
+        "Pickleball",
+        "Billiard",
+        "Parkir",
+        "Ruang ganti",
+        "Makanan ringan",
+        "Minuman"
+      ],
+      "description": "Pusat olahraga modern dengan badminton, padel, futsal, pickleball dan billiard.",
+      "schedule": [],
+      "image": "https://loremflickr.com/800/600/sportscenter,gym?lock=32"
+    },
+    {
+      "id": 33,
+      "name": "Epic Sport Center - Tennis & Pickle",
+      "category": "Multi Sport",
+      "location": "Jl. Raya Narogong No.24, Bantargebang, Kota Bekasi, Jawa Barat 17151",
+      "pricePerHour": 50000,
+      "rating": 4.9,
+      "popular": true,
+      "capacity": null,
+      "facilities": [
+        "Tennis",
+        "Pickleball",
+        "Padel",
+        "Mini Soccer",
+        "Badminton",
+        "Hot shower",
+        "Musholla",
+        "Parkir",
+        "Ruang ganti",
+        "Toilet",
+        "Cafe"
+      ],
+      "description": "Sports center yang menyediakan tennis, pickleball, padel, mini soccer dan badminton.",
+      "schedule": [],
+      "image": "https://loremflickr.com/800/600/sportscenter,gym?lock=33"
+    },
+    {
+      "id": 34,
+      "name": "Futsal Corner Bekasi",
+      "category": "Futsal",
+      "location": "Jl. Raya Sultan Agung KM.28, Kota Bekasi, Jawa Barat",
+      "pricePerHour": 65000,
+      "rating": 4.6,
+      "popular": true,
+      "capacity": null,
+      "facilities": [
+        "Futsal",
+        "Hot shower",
+        "Musholla",
+        "Parkir",
+        "Ruang ganti",
+        "Toilet",
+        "Toko olahraga"
+      ],
+      "description": "Lapangan futsal di kawasan Sultan Agung Bekasi yang tersedia untuk booking sesi.",
+      "schedule": [],
+      "image": "https://loremflickr.com/800/600/futsal,indoor?lock=34"
+    },
+    {
+      "id": 35,
+      "name": "KNS Sports Arena",
+      "category": "Badminton",
+      "location": "Jl. Wadas Raya No.8, Pancoran Mas, Kota Depok, Jawa Barat",
+      "pricePerHour": 40000,
+      "rating": 5.0,
+      "popular": true,
+      "capacity": null,
+      "facilities": [
+        "3 lapangan badminton indoor",
+        "Lapangan padel",
+        "Cafe",
+        "Parkir"
+      ],
+      "description": "Sports arena di Depok dengan tiga lapangan badminton indoor berstandar internasional dan satu lapangan padel.",
+      "schedule": [],
+      "image": "https://loremflickr.com/800/600/badminton,court?lock=35"
+    },
+    {
+      "id": 36,
+      "name": "GoSports Zone Sukabumi",
+      "category": "Multi Sport",
+      "location": "Jl. Selabintana No.58, Kota Sukabumi, Jawa Barat",
+      "pricePerHour": 40000,
+      "rating": 4.8,
+      "popular": true,
+      "capacity": null,
+      "facilities": [
+        "Padel",
+        "Badminton"
+      ],
+      "description": "Sports lifestyle venue di Sukabumi dengan fasilitas padel dan badminton.",
+      "schedule": [],
+      "image": "https://loremflickr.com/800/600/sportscenter,gym?lock=36"
+    },
+    {
+      "id": 37,
+      "name": "Padeline",
+      "category": "Padel",
+      "location": "Jl. RA Kosasih No.324, Kebonjati, Cikole, Kota Sukabumi, Jawa Barat",
+      "pricePerHour": 125000,
+      "rating": 4.8,
+      "popular": true,
+      "capacity": null,
+      "facilities": [
+        "Padel",
+        "Parkir",
+        "Ruang ganti",
+        "Shower",
+        "Toilet",
+        "Tribun",
+        "WiFi",
+        "Minuman"
+      ],
+      "description": "Lapangan padel di jantung Kota Sukabumi.",
+      "schedule": [],
+      "image": "https://loremflickr.com/800/600/padel,tennis?lock=37"
+    },
+    {
+      "id": 38,
+      "name": "Terrahall Badminton Sukabumi",
+      "category": "Badminton",
+      "location": "Jl. Taman Asri Raya, Subang Jaya, Kecamatan Cikole, Kota Sukabumi, Jawa Barat",
+      "pricePerHour": 35000,
+      "rating": 4.8,
+      "popular": true,
+      "capacity": null,
+      "facilities": [
+        "Badminton",
+        "Parkir",
+        "Musholla",
+        "Toilet",
+        "Minuman"
+      ],
+      "description": "Arena badminton modern dengan lantai kayu parket, ventilasi baik dan area parkir yang luas.",
+      "schedule": [],
+      "image": "https://loremflickr.com/800/600/badminton,court?lock=38"
+    },
+    {
+      "id": 39,
+      "name": "Gor Ibu dan Ratu",
+      "category": "Badminton",
+      "location": "Jl. Garuda, Baros, Kota Sukabumi, Jawa Barat",
+      "pricePerHour": 30000,
+      "rating": 4.8,
+      "popular": true,
+      "capacity": null,
+      "facilities": [
+        "2 lapangan badminton",
+        "Karpet vinyl premium"
+      ],
+      "description": "GOR dengan dua lapangan badminton menggunakan karpet vinyl hijau premium.",
+      "schedule": [],
+      "image": "https://loremflickr.com/800/600/badminton,court?lock=39"
+    },
+    {
+      "id": 40,
+      "name": "The Bucketlist Bogor",
+      "category": "Basket",
+      "location": "Jl. R.H. Moh. Tohir No.1, Kota Bogor, Jawa Barat",
+      "pricePerHour": 75000,
+      "rating": 5.0,
+      "popular": true,
+      "capacity": 8,
+      "facilities": [
+        "Basket",
+        "Main court FIBA",
+        "1on1 court",
+        "Basketball gallery",
+        "Cafe",
+        "Hot shower",
+        "Musholla",
+        "Parkir"
+      ],
+      "description": "Lapangan basket dengan main court berstandar FIBA dan area 1on1.",
+      "schedule": [],
+      "image": "https://loremflickr.com/800/600/basketball,court?lock=40"
+    },
+    {
+      "id": 41,
+      "name": "Padelaria Bogor",
+      "category": "Padel",
+      "location": "Jl. Pangeran Sogiri No.175, Tanah Baru, Bogor Utara, Kota Bogor, Jawa Barat 16154",
+      "pricePerHour": 99000,
+      "rating": 4.9,
+      "popular": true,
+      "capacity": null,
+      "facilities": [
+        "3 court padel",
+        "Open play",
+        "Rental raket"
+      ],
+      "description": "Venue padel di Bogor dengan tiga court dan konsep community-friendly.",
+      "schedule": [
+        "06:00 - 23:00"
+      ],
+      "image": "https://loremflickr.com/800/600/padel,tennis?lock=41"
+    },
+    {
+      "id": 42,
+      "name": "Matrix Padel Court",
+      "category": "Padel",
+      "location": "Komplek Baranangsiang 4 Blok D Ujung, Tanah Baru, Bogor Utara, Kota Bogor, Jawa Barat 16154",
+      "pricePerHour": 100000,
+      "rating": 5.0,
+      "popular": true,
+      "capacity": null,
+      "facilities": [
+        "Regular padel court",
+        "Single padel court",
+        "Parkir",
+        "Musholla",
+        "Ruang ganti",
+        "Shower",
+        "Toilet",
+        "Minuman"
+      ],
+      "description": "Padel court di Kota Bogor dengan satu regular court dan satu single court.",
+      "schedule": [],
+      "image": "https://loremflickr.com/800/600/padel,tennis?lock=42"
+    },
+    {
+      "id": 43,
+      "name": "Tropicourt Padel",
+      "category": "Padel",
+      "location": "Bogor Timur, Kota Bogor, Jawa Barat 16142",
+      "pricePerHour": 100000,
+      "rating": null,
+      "popular": true,
+      "capacity": null,
+      "facilities": [
+        "3 padel courts",
+        "Cafe",
+        "Hot shower",
+        "Musholla",
+        "Parkir",
+        "Minuman"
+      ],
+      "description": "Venue padel Bogor dengan tiga court berkualitas dan lounge.",
+      "schedule": [],
+      "image": "https://loremflickr.com/800/600/padel,tennis?lock=43"
+    },
+    {
+      "id": 44,
+      "name": "Alora Padel",
+      "category": "Padel",
+      "location": "Jl. Sholeh Iskandar, Kedung Badak, Tanah Sereal, Kota Bogor, Jawa Barat",
+      "pricePerHour": 160000,
+      "rating": null,
+      "popular": false,
+      "capacity": null,
+      "facilities": [
+        "Private padel court",
+        "Musholla",
+        "Parkir",
+        "Shower",
+        "Minuman",
+        "Makanan ringan"
+      ],
+      "description": "Private padel court dengan desain estetik dan fasilitas premium.",
+      "schedule": [],
+      "image": "https://loremflickr.com/800/600/padel,tennis?lock=44"
+    },
+    {
+      "id": 45,
+      "name": "MYPADL Signature",
+      "category": "Padel",
+      "location": "Jl. Raya Tajur No.22, Pakuan, Bogor Selatan, Kota Bogor, Jawa Barat",
+      "pricePerHour": 81000,
+      "rating": 4.8,
+      "popular": true,
+      "capacity": 60,
+      "facilities": [
+        "6 panoramic padel courts",
+        "Ice bath pool",
+        "Restroom",
+        "Parkir"
+      ],
+      "description": "Premium padel venue dengan enam panoramic international courts dan area parkir hingga 60 mobil.",
+      "schedule": [],
+      "image": "https://loremflickr.com/800/600/padel,tennis?lock=45"
+    },
+    {
+      "id": 46,
+      "name": "FullBelly Padel",
+      "category": "Padel",
+      "location": "Jl. Kaum Sari No.1, Kawasan OCBD, Cibuluh, Bogor Utara, Kota Bogor, Jawa Barat 16151",
+      "pricePerHour": 120000,
+      "rating": null,
+      "popular": true,
+      "capacity": null,
+      "facilities": [
+        "Padel",
+        "Hot shower",
+        "Cafe",
+        "Ruang ganti",
+        "Parkir"
+      ],
+      "description": "Venue padel di kawasan OCBD Bogor dengan fasilitas olahraga dan area cafe.",
+      "schedule": [],
+      "image": "https://loremflickr.com/800/600/padel,tennis?lock=46"
+    },
+    {
+      "id": 47,
+      "name": "Padel Park Bogor",
+      "category": "Padel",
+      "location": "Jl. Raya Tajur No.265, Muarasari, Bogor Selatan, Kota Bogor, Jawa Barat",
+      "pricePerHour": 99000,
+      "rating": null,
+      "popular": true,
+      "capacity": null,
+      "facilities": [
+        "Padel",
+        "Musholla",
+        "Parkir",
+        "Ruang ganti",
+        "Toilet",
+        "Shower"
+      ],
+      "description": "Venue padel di kawasan Tajur Bogor dengan fasilitas pendukung lengkap.",
+      "schedule": [],
+      "image": "https://loremflickr.com/800/600/padel,tennis?lock=47"
+    },
+    {
+      "id": 48,
+      "name": "GOR Jaya",
+      "category": "Badminton",
+      "location": "Jl. Wijaya Kusuma No.18, Pakuan, Bogor Selatan, Kota Bogor, Jawa Barat",
+      "pricePerHour": 50000,
+      "rating": 4.9,
+      "popular": true,
+      "capacity": null,
+      "facilities": [
+        "4 lapangan badminton",
+        "Cafe",
+        "Hot shower",
+        "Musholla",
+        "Parkir",
+        "Minuman"
+      ],
+      "description": "GOR dengan empat lapangan badminton standar turnamen.",
+      "schedule": [],
+      "image": "https://loremflickr.com/800/600/badminton,court?lock=48"
+    },
+    {
+      "id": 49,
+      "name": "Lapangan Tennis Korem",
+      "category": "Tennis",
+      "location": "Jl. Ciwaringin II No.4, Ciwaringin, Bogor Tengah, Kota Bogor, Jawa Barat",
+      "pricePerHour": 75000,
+      "rating": null,
+      "popular": false,
+      "capacity": null,
+      "facilities": [
+        "Tennis",
+        "Musholla",
+        "Parkir",
+        "Ruang ganti",
+        "Makanan ringan",
+        "Minuman"
+      ],
+      "description": "Lapangan tennis di kawasan Bogor Tengah yang tersedia untuk booking.",
+      "schedule": [],
+      "image": "https://loremflickr.com/800/600/tennis,court?lock=49"
+    },
+    {
+      "id": 50,
+      "name": "Padra Padel",
+      "category": "Padel",
+      "location": "Jl. Kol. Ahmad Syam, Katulampa, Bogor Timur, Kota Bogor, Jawa Barat",
+      "pricePerHour": 245000,
+      "rating": 4.9,
+      "popular": true,
+      "capacity": null,
+      "facilities": [
+        "Padel",
+        "Cafe",
+        "Hot shower",
+        "Musholla",
+        "Parkir",
+        "Minuman"
+      ],
+      "description": "Social club padel, restaurant dan art space di Bogor.",
+      "schedule": [],
+      "image": "https://loremflickr.com/800/600/padel,tennis?lock=50"
+    },
+    {
+      "id": 51,
+      "name": "Permata Sport Arena Cirebon",
+      "category": "Badminton",
+      "location": "PGN Area Cirebon, Jl. Veteran No.2, Kebonbaru, Kejaksan, Kota Cirebon, Jawa Barat 45121",
+      "pricePerHour": 75000,
+      "rating": 4.8,
+      "popular": true,
+      "capacity": null,
+      "facilities": [
+        "3 lapangan badminton",
+        "Pencahayaan LED",
+        "Musholla",
+        "Parkir motor",
+        "Parkir mobil",
+        "Shower",
+        "Toilet",
+        "Ruang ganti"
+      ],
+      "description": "Arena badminton dengan tiga lapangan dan fasilitas pendukung yang lengkap.",
+      "schedule": [],
+      "image": "https://loremflickr.com/800/600/badminton,court?lock=51"
+    },
+    {
+      "id": 52,
+      "name": "PKF Badminton Arena",
+      "category": "Badminton",
+      "location": "Jl. Dukuh Semar No.124, Drajat, Kesambi, Kota Cirebon, Jawa Barat 45142",
+      "pricePerHour": 45000,
+      "rating": 5.0,
+      "popular": true,
+      "capacity": null,
+      "facilities": [
+        "2 lapangan badminton indoor",
+        "Ruang tunggu",
+        "Chiller minuman",
+        "Parkir mobil",
+        "Parkir motor",
+        "Ruang ganti",
+        "Toilet"
+      ],
+      "description": "Lapangan badminton indoor dengan dua court dan fasilitas ruang tunggu.",
+      "schedule": [],
+      "image": "https://loremflickr.com/800/600/badminton,court?lock=52"
+    },
+    {
+      "id": 53,
+      "name": "Sport Grage City Mall",
+      "category": "Badminton",
+      "location": "Jl. Jenderal Ahmad Yani, Pegambiran, Lemahwungkuk, Kota Cirebon, Jawa Barat",
+      "pricePerHour": 30000,
+      "rating": 4.84,
+      "popular": true,
+      "capacity": null,
+      "facilities": [],
+      "description": "Venue badminton di kawasan Grage City Mall Cirebon.",
+      "schedule": [],
+      "image": "https://loremflickr.com/800/600/badminton,court?lock=53"
+    },
+    {
+      "id": 54,
+      "name": "TSM Sport Centre Klayan",
+      "category": "Badminton",
+      "location": "Klayan, Kota Cirebon, Jawa Barat",
+      "pricePerHour": 45000,
+      "rating": 4.71,
+      "popular": true,
+      "capacity": null,
+      "facilities": [],
+      "description": "Sport centre di Klayan Cirebon yang menyediakan fasilitas badminton.",
+      "schedule": [],
+      "image": "https://loremflickr.com/800/600/badminton,court?lock=54"
+    },
+    {
+      "id": 55,
+      "name": "Star Sports Club Kota Cirebon",
+      "category": "Badminton",
+      "location": "Kota Cirebon, Jawa Barat",
+      "pricePerHour": 70000,
+      "rating": null,
+      "popular": false,
+      "capacity": null,
+      "facilities": [],
+      "description": "Sports club di Kota Cirebon dengan fasilitas badminton yang dapat dipesan.",
+      "schedule": [],
+      "image": "https://loremflickr.com/800/600/badminton,court?lock=55"
+    },
+    {
+      "id": 56,
+      "name": "Oase Arena Kota Tasikmalaya",
+      "category": "Multi Sport",
+      "location": "Jl. Ibu Apipah No.12, Kahuripan, Tawang, Kota Tasikmalaya, Jawa Barat",
+      "pricePerHour": 60000,
+      "rating": null,
+      "popular": true,
+      "capacity": null,
+      "facilities": [
+        "Basket",
+        "Pickleball",
+        "Badminton",
+        "Tennis",
+        "Hot shower",
+        "Parkir mobil",
+        "Parkir motor",
+        "Ruang ganti",
+        "Shower",
+        "Musholla"
+      ],
+      "description": "Arena multisport dengan lapangan basket, pickleball, badminton dan tennis.",
+      "schedule": [],
+      "image": "https://loremflickr.com/800/600/sportscenter,gym?lock=56"
+    },
+    {
+      "id": 57,
+      "name": "Mayasari Sport Hall",
+      "category": "Badminton",
+      "location": "Kota Tasikmalaya, Jawa Barat",
+      "pricePerHour": 30000,
+      "rating": 5.0,
+      "popular": true,
+      "capacity": null,
+      "facilities": [],
+      "description": "Sport hall di Kota Tasikmalaya dengan fasilitas badminton.",
+      "schedule": [],
+      "image": "https://loremflickr.com/800/600/badminton,court?lock=57"
+    },
+    {
+      "id": 58,
+      "name": "Padel.in Cianjur",
+      "category": "Padel",
+      "location": "Jl. Raya Sukabumi No.11, Sukamaju, Kec. Cianjur, Kabupaten Cianjur, Jawa Barat 43212",
+      "pricePerHour": 97500,
+      "rating": 4.95,
+      "popular": true,
+      "capacity": null,
+      "facilities": [
+        "Padel",
+        "Cafe",
+        "Hot shower",
+        "Makanan ringan",
+        "Minuman",
+        "Parkir mobil",
+        "Musholla"
+      ],
+      "description": "Venue padel dengan café dan fasilitas pendukung yang cocok untuk bermain santai maupun latihan.",
+      "schedule": [],
+      "image": "https://loremflickr.com/800/600/padel,tennis?lock=58"
+    },
+    {
+      "id": 59,
+      "name": "Nako Padel Club - Cianjur",
+      "category": "Padel",
+      "location": "Jl. KH Abdullah Bin Nuh, Pamoyanan, Cianjur, Jawa Barat",
+      "pricePerHour": 100000,
+      "rating": 4.85,
+      "popular": true,
+      "capacity": null,
+      "facilities": [
+        "Padel",
+        "Cafe",
+        "Hot shower",
+        "Makanan ringan",
+        "Minuman",
+        "Musholla",
+        "Parkir mobil"
+      ],
+      "description": "Padel club di Cianjur dengan fasilitas café dan area pendukung.",
+      "schedule": [],
+      "image": "https://loremflickr.com/800/600/padel,tennis?lock=59"
+    },
+    {
+      "id": 60,
+      "name": "Global Mini Soccer",
+      "category": "Mini Soccer",
+      "location": "Cibeber, Kabupaten Cianjur, Jawa Barat",
+      "pricePerHour": 100000,
+      "rating": null,
+      "popular": true,
+      "capacity": null,
+      "facilities": [
+        "Rumput sintetis",
+        "Parkir mobil",
+        "Parkir motor",
+        "Ruang ganti",
+        "Tribun penonton",
+        "Toilet",
+        "WiFi",
+        "Musholla"
+      ],
+      "description": "Sarana olahraga sepak bola di wilayah Cibeber Cianjur dengan rumput sintetis.",
+      "schedule": [],
+      "image": "https://loremflickr.com/800/600/soccer,field?lock=60"
+    },
+    {
+      "id": 61,
+      "name": "212 Padel Karawang",
+      "category": "Padel",
+      "location": "Jl. Arteri Galuh Mas No.1, Sukaharja, Telukjambe Timur, Kabupaten Karawang, Jawa Barat 41361",
+      "pricePerHour": 110000,
+      "rating": 4.9,
+      "popular": true,
+      "capacity": null,
+      "facilities": [
+        "Cafe & Resto",
+        "Makanan ringan",
+        "Minuman",
+        "Musholla",
+        "Parkir mobil",
+        "Parkir motor",
+        "Ruang ganti",
+        "Shower",
+        "Toilet",
+        "WiFi"
+      ],
+      "description": "Venue panoramic padel di Karawang dengan fasilitas lengkap.",
+      "schedule": [],
+      "image": "https://loremflickr.com/800/600/padel,tennis?lock=61"
+    },
+    {
+      "id": 62,
+      "name": "PARKLAND PADEL",
+      "category": "Padel",
+      "location": "Rest Area Aliyah, Interchange Karawang Barat, Wadas, Telukjambe Timur, Kabupaten Karawang, Jawa Barat",
+      "pricePerHour": 70000,
+      "rating": 5.0,
+      "popular": true,
+      "capacity": null,
+      "facilities": [
+        "4 court padel",
+        "Cafe & Resto",
+        "Minuman",
+        "Parkir mobil",
+        "Parkir motor",
+        "Ruang ganti",
+        "Shower"
+      ],
+      "description": "Venue padel dengan empat court di Rest Area Aliyah Karawang Barat.",
+      "schedule": [],
+      "image": "https://loremflickr.com/800/600/padel,tennis?lock=62"
+    },
+    {
+      "id": 63,
+      "name": "Resinda Padel",
+      "category": "Padel",
+      "location": "Resinda Sport Center, Resinda Residential, Kabupaten Karawang, Jawa Barat",
+      "pricePerHour": 140000,
+      "rating": 4.9,
+      "popular": true,
+      "capacity": null,
+      "facilities": [],
+      "description": "Venue padel premium di kawasan Resinda Karawang.",
+      "schedule": [],
+      "image": "https://loremflickr.com/800/600/padel,tennis?lock=63"
+    },
+    {
+      "id": 64,
+      "name": "Padel One Purwakarta",
+      "category": "Padel",
+      "location": "Jl. Pramuka No.131, Bunder, Kabupaten Purwakarta, Jawa Barat",
+      "pricePerHour": 169000,
+      "rating": 5.0,
+      "popular": true,
+      "capacity": null,
+      "facilities": [
+        "Cafe & Resto",
+        "Hot shower",
+        "Makanan ringan",
+        "Minuman",
+        "Musholla",
+        "Parkir mobil",
+        "Parkir motor",
+        "Toilet",
+        "Toko olahraga",
+        "Tribun",
+        "WiFi",
+        "Jacuzzi",
+        "Mini playground",
+        "Mini sauna",
+        "VIP room"
+      ],
+      "description": "Venue padel premium dengan coaching, community event, dan fasilitas lengkap.",
+      "schedule": [],
+      "image": "https://loremflickr.com/800/600/padel,tennis?lock=64"
+    },
+    {
+      "id": 65,
+      "name": "Spectrum Padel",
+      "category": "Padel",
+      "location": "Jl. Taman Pahlawan No.142, Purwamekar, Purwakarta, Jawa Barat 41119",
+      "pricePerHour": 150000,
+      "rating": 4.95,
+      "popular": true,
+      "capacity": null,
+      "facilities": [
+        "3 court padel",
+        "Cafe",
+        "Coaching",
+        "Parkir"
+      ],
+      "description": "Venue padel premium dengan tiga court standar internasional dan jam operasional 06:00–23:00.",
+      "schedule": [
+        "06:00 - 08:00",
+        "08:00 - 10:00",
+        "10:00 - 12:00",
+        "13:00 - 15:00",
+        "15:00 - 17:00",
+        "18:00 - 20:00",
+        "20:00 - 23:00"
+      ],
+      "image": "https://loremflickr.com/800/600/padel,tennis?lock=65"
+    },
+    {
+      "id": 66,
+      "name": "Huma Padel",
+      "category": "Padel",
+      "location": "Jl. Waduk Jatiluhur No.1A, Jatiluhur, Kabupaten Purwakarta, Jawa Barat",
+      "pricePerHour": 220000,
+      "rating": 4.9,
+      "popular": true,
+      "capacity": null,
+      "facilities": [
+        "Padel",
+        "Raket rental",
+        "Ruang ganti",
+        "Shower"
+      ],
+      "description": "Private padel venue di kawasan Jatiluhur dengan satu court dan suasana privat.",
+      "schedule": [],
+      "image": "https://loremflickr.com/800/600/padel,tennis?lock=66"
+    },
+    {
+      "id": 67,
+      "name": "Tres De Padel",
+      "category": "Padel",
+      "location": "Purwamekar, Purwakarta, Kabupaten Purwakarta, Jawa Barat 41151",
+      "pricePerHour": 99999,
+      "rating": null,
+      "popular": true,
+      "capacity": null,
+      "facilities": [
+        "Cafe & Resto",
+        "Hot shower",
+        "Makanan ringan",
+        "Minuman",
+        "Musholla",
+        "Parkir mobil"
+      ],
+      "description": "Venue padel dengan konsep olahraga, kopi, dan tempat berkumpul.",
+      "schedule": [],
+      "image": "https://loremflickr.com/800/600/padel,tennis?lock=67"
+    },
+    {
+      "id": 68,
+      "name": "Padel Ground Reserve",
+      "category": "Padel",
+      "location": "Jawa Barat",
+      "pricePerHour": 100000,
+      "rating": 5.0,
+      "popular": true,
+      "capacity": null,
+      "facilities": [
+        "Ruang tunggu",
+        "Kursi",
+        "Court padel"
+      ],
+      "description": "Venue padel dengan sistem ketersediaan jadwal yang dapat dipesan melalui platform booking.",
+      "schedule": [],
+      "image": "https://loremflickr.com/800/600/padel,tennis?lock=68"
+    },
+    {
+      "id": 69,
+      "name": "Second Serve Padel",
+      "category": "Padel",
+      "location": "Jawa Barat",
+      "pricePerHour": 100000,
+      "rating": 4.5,
+      "popular": true,
+      "capacity": null,
+      "facilities": [
+        "Ruang ganti",
+        "Shower",
+        "Toilet",
+        "Tribun",
+        "Hot shower",
+        "VIP room"
+      ],
+      "description": "Venue padel dengan fasilitas court dan area pendukung termasuk VIP room.",
+      "schedule": [],
+      "image": "https://loremflickr.com/800/600/padel,tennis?lock=69"
+    },
+    {
+      "id": 70,
+      "name": "FYP Padel",
+      "category": "Padel",
+      "location": "Jawa Barat",
+      "pricePerHour": 100000,
+      "rating": 4.9,
+      "popular": true,
+      "capacity": null,
+      "facilities": [
+        "Cafe & Resto",
+        "Minuman",
+        "Parkir mobil",
+        "Parkir motor",
+        "Toilet",
+        "WiFi",
+        "Ruang ganti",
+        "Shower"
+      ],
+      "description": "Venue padel dengan fasilitas pendukung lengkap dan sistem booking online.",
+      "schedule": [],
+      "image": "https://loremflickr.com/800/600/padel,tennis?lock=70"
+    },
+    {
+      "id": 71,
+      "name": "Sport Center Cibabat Park",
+      "category": "Multi Sport",
+      "location": "Jl. Jend. Amir Machmud No.138, Cibabat, Cimahi Utara, Kota Cimahi, Jawa Barat",
+      "pricePerHour": 115000,
+      "rating": 4.06,
+      "popular": true,
+      "capacity": null,
+      "facilities": [
+        "Cafe & Resto",
+        "Parkir",
+        "Toilet",
+        "Musholla"
+      ],
+      "description": "Sport center di Cimahi yang menyediakan fasilitas olahraga dan dapat digunakan untuk booking lapangan.",
+      "schedule": [],
+      "image": "https://loremflickr.com/800/600/sportscenter,gym?lock=71"
+    },
+    {
+      "id": 72,
+      "name": "The Good Padel Club Cimahi",
+      "category": "Padel",
+      "location": "Cimahi, Jawa Barat",
+      "pricePerHour": 100000,
+      "rating": 4.9,
+      "popular": true,
+      "capacity": null,
+      "facilities": [
+        "Padel",
+        "Court indoor"
+      ],
+      "description": "Klub padel di Cimahi dengan beberapa court dan sistem booking berdasarkan slot waktu.",
+      "schedule": [],
+      "image": "https://loremflickr.com/800/600/padel,tennis?lock=72"
+    },
+    {
+      "id": 73,
+      "name": "Soegiri Infini Arena",
+      "category": "Sepak Bola",
+      "location": "Baros, Cimahi Tengah, Kota Cimahi, Jawa Barat",
+      "pricePerHour": 500000,
+      "rating": 5.0,
+      "popular": true,
+      "capacity": null,
+      "facilities": [
+        "Lapangan sepak bola sintetis",
+        "Musholla",
+        "Toilet",
+        "Tribun penonton"
+      ],
+      "description": "Lapangan sepak bola sintetis yang tersedia untuk booking sesi.",
+      "schedule": [],
+      "image": "https://loremflickr.com/800/600/football,stadium?lock=73"
+    },
+    {
+      "id": 74,
+      "name": "Vivo Arena",
+      "category": "Multi Sport",
+      "location": "Jl. Melong Asih No.69C, Cijerah, Bandung Kulon, Kota Bandung, Jawa Barat",
+      "pricePerHour": 50000,
+      "rating": 5.0,
+      "popular": true,
+      "capacity": null,
+      "facilities": [
+        "3 lapangan badminton",
+        "2 lapangan pickleball",
+        "1 lapangan futsal",
+        "Parkir motor",
+        "Parkir mobil",
+        "Toilet",
+        "WiFi",
+        "Makanan ringan",
+        "Minuman"
+      ],
+      "description": "Arena olahraga dengan tiga lapangan badminton, dua pickleball dan satu futsal.",
+      "schedule": [],
+      "image": "https://loremflickr.com/800/600/sportscenter,gym?lock=74"
+    },
+    {
+      "id": 75,
+      "name": "Courtline",
+      "category": "Padel",
+      "location": "Jl. Nanjung No.2, Cimahi, Jawa Barat 40533",
+      "pricePerHour": 95000,
+      "rating": 4.97,
+      "popular": true,
+      "capacity": null,
+      "facilities": [
+        "2 panoramic padel courts",
+        "Area communal",
+        "Parkir",
+        "Ruang tunggu"
+      ],
+      "description": "Venue padel dengan dua panoramic court bersertifikasi IPF dan area communal yang luas.",
+      "schedule": [],
+      "image": "https://loremflickr.com/800/600/padel,tennis?lock=75"
+    },
+    {
+      "id": 76,
+      "name": "GOR ABA Badminton",
+      "category": "Badminton",
+      "location": "Bandung, Jawa Barat",
+      "pricePerHour": 35000,
+      "rating": 4.8,
+      "popular": true,
+      "capacity": null,
+      "facilities": [
+        "Badminton",
+        "Musholla",
+        "Parkir motor",
+        "Toilet",
+        "Makanan ringan",
+        "Minuman"
+      ],
+      "description": "GOR badminton yang menyediakan pemesanan lapangan melalui platform booking.",
+      "schedule": [],
+      "image": "https://loremflickr.com/800/600/badminton,court?lock=76"
+    },
+    {
+      "id": 77,
+      "name": "Bulu Bulu Badminton",
+      "category": "Badminton",
+      "location": "Jawa Barat",
+      "pricePerHour": 40000,
+      "rating": 5.0,
+      "popular": true,
+      "capacity": null,
+      "facilities": [
+        "Badminton",
+        "Cafe & Resto",
+        "Shower"
+      ],
+      "description": "Venue badminton dengan fasilitas cafe dan shower serta sistem ketersediaan jadwal.",
+      "schedule": [],
+      "image": "https://loremflickr.com/800/600/badminton,court?lock=77"
+    },
+    {
+      "id": 78,
+      "name": "Estadio Futsal",
+      "category": "Futsal",
+      "location": "Jalan Perjuangan No.66, Marga Mulya, Bekasi Utara, Kota Bekasi, Jawa Barat",
+      "pricePerHour": 100000,
+      "rating": 4.8,
+      "popular": true,
+      "capacity": null,
+      "facilities": [
+        "2 lapangan futsal interlock standar FIFA",
+        "Musholla",
+        "Parkir mobil",
+        "Parkir motor",
+        "Shower",
+        "Ruang ganti",
+        "Toilet",
+        "Tribun penonton",
+        "Minuman"
+      ],
+      "description": "Venue futsal dengan dua lapangan interlock standar FIFA dan fasilitas pendukung lengkap.",
+      "schedule": [],
+      "image": "https://loremflickr.com/800/600/futsal,indoor?lock=78"
+    },
+    {
+      "id": 79,
+      "name": "Game On Arena",
+      "category": "Multi Sport",
+      "location": "Jl. Sekekukumbung No.98, Mekar Rahayu, Margaasih, Kabupaten Bandung, Jawa Barat 40218",
+      "pricePerHour": 55000,
+      "rating": 5.0,
+      "popular": true,
+      "capacity": null,
+      "facilities": [
+        "4 lapangan badminton",
+        "1 lapangan basket full size",
+        "Hot shower",
+        "Parkir",
+        "Chill area",
+        "WC"
+      ],
+      "description": "Arena olahraga dengan empat lapangan badminton dan satu lapangan basket full size.",
+      "schedule": [],
+      "image": "https://loremflickr.com/800/600/sportscenter,gym?lock=79"
+    },
+    {
+      "id": 80,
+      "name": "Lindung Badminton Arena",
+      "category": "Badminton",
+      "location": "Jawa Barat",
+      "pricePerHour": 45000,
+      "rating": 5.0,
+      "popular": true,
+      "capacity": null,
+      "facilities": [
+        "Badminton",
+        "Lapangan VIP",
+        "Sistem booking online"
+      ],
+      "description": "Arena badminton dengan beberapa pilihan lapangan dan sistem ketersediaan jadwal.",
+      "schedule": [],
+      "image": "https://loremflickr.com/800/600/badminton,court?lock=80"
+    },
+    {
+      "id": 81,
+      "name": "GOR Badminton Himaya Pakansari",
+      "category": "Badminton",
+      "location": "Jl. H. Jairan, Pakansari, Cibinong, Kabupaten Bogor, Jawa Barat 16915",
+      "pricePerHour": 35000,
+      "rating": 5.0,
+      "popular": true,
+      "capacity": null,
+      "facilities": [
+        "4 lapangan badminton",
+        "Parkir luas",
+        "Musholla",
+        "Kantin",
+        "Outlet makanan",
+        "4 kamar mandi"
+      ],
+      "description": "GOR badminton dengan empat lapangan berkarpet dan fasilitas pendukung yang lengkap.",
+      "schedule": [],
+      "image": "https://loremflickr.com/800/600/badminton,court?lock=81"
+    },
+    {
+      "id": 82,
+      "name": "GOR Badminton HTS Ciseeng",
+      "category": "Badminton",
+      "location": "Jl. Babakan Kulon I 6, Babakan, Ciseeng, Kabupaten Bogor, Jawa Barat 16120",
+      "pricePerHour": 35000,
+      "rating": null,
+      "popular": false,
+      "capacity": null,
+      "facilities": [
+        "Musholla",
+        "Parkir mobil",
+        "Parkir motor",
+        "Ruang ganti",
+        "Toilet",
+        "WiFi"
+      ],
+      "description": "GOR badminton di Ciseeng dengan fasilitas pendukung dan sistem pengecekan ketersediaan.",
+      "schedule": [],
+      "image": "https://loremflickr.com/800/600/badminton,court?lock=82"
+    },
+    {
+      "id": 83,
+      "name": "GOR MG Sport",
+      "category": "Badminton",
+      "location": "Kp. Selang Tengah RT 03 RW 02, Wanasari, Cibitung, Kabupaten Bekasi, Jawa Barat",
+      "pricePerHour": 30000,
+      "rating": 5.0,
+      "popular": true,
+      "capacity": null,
+      "facilities": [
+        "5 lapangan badminton indoor",
+        "Lapangan standar BWF",
+        "Karpet vinyl",
+        "Makanan ringan"
+      ],
+      "description": "GOR badminton indoor dengan lima lapangan standar BWF.",
+      "schedule": [],
+      "image": "https://loremflickr.com/800/600/badminton,court?lock=83"
+    },
+    {
+      "id": 84,
+      "name": "GOR Vator Pacific",
+      "category": "Badminton",
+      "location": "Sukahati, Cibinong, Kabupaten Bogor, Jawa Barat",
+      "pricePerHour": 50000,
+      "rating": 4.8,
+      "popular": true,
+      "capacity": null,
+      "facilities": [
+        "5 lapangan badminton indoor",
+        "Tribun",
+        "Private room"
+      ],
+      "description": "GOR badminton dengan lima lapangan indoor dan pilihan tribun pada beberapa lapangan.",
+      "schedule": [],
+      "image": "https://loremflickr.com/800/600/badminton,court?lock=84"
+    },
+    {
+      "id": 85,
+      "name": "Ginza Sport",
+      "category": "Badminton",
+      "location": "Perumahan Taman Darul Adnan, Jl. Moro No.36, Ciangsana, Gunung Putri, Kabupaten Bogor, Jawa Barat",
+      "pricePerHour": 60000,
+      "rating": 4.9,
+      "popular": true,
+      "capacity": null,
+      "facilities": [
+        "4 lapangan badminton indoor standar BWF",
+        "Ruang tunggu",
+        "Ruang fitness",
+        "Musholla",
+        "Kantin",
+        "Parkir",
+        "Ruang ganti"
+      ],
+      "description": "Venue badminton dengan empat lapangan standar BWF dan berbagai fasilitas pendukung.",
+      "schedule": [],
+      "image": "https://loremflickr.com/800/600/badminton,court?lock=85"
+    },
+    {
+      "id": 86,
+      "name": "KRR Racquet Club",
+      "category": "Badminton",
+      "location": "Jl. Mahoni Raya, Mekarjaya, Ciomas, Kabupaten Bogor, Jawa Barat 16610",
+      "pricePerHour": 40000,
+      "rating": 5.0,
+      "popular": true,
+      "capacity": null,
+      "facilities": [
+        "4 lapangan badminton",
+        "Musholla",
+        "Parkir mobil",
+        "Parkir motor",
+        "Makanan ringan",
+        "Minuman"
+      ],
+      "description": "Racquet club dengan empat lapangan badminton.",
+      "schedule": [],
+      "image": "https://loremflickr.com/800/600/badminton,court?lock=86"
+    },
+    {
+      "id": 87,
+      "name": "ASBC Sport Center",
+      "category": "Multi Sport",
+      "location": "Jl. Alternatif Cibubur KM 06, Nagrak, Gunung Putri, Kabupaten Bogor, Jawa Barat",
+      "pricePerHour": 140000,
+      "rating": 4.6,
+      "popular": true,
+      "capacity": null,
+      "facilities": [
+        "Futsal",
+        "Basket",
+        "Badminton",
+        "Lapangan indoor",
+        "Lapangan outdoor",
+        "Musholla",
+        "Minuman"
+      ],
+      "description": "Sport center indoor dan outdoor yang dapat digunakan untuk futsal, basket, dan badminton.",
+      "schedule": [],
+      "image": "https://loremflickr.com/800/600/sportscenter,gym?lock=87"
+    },
+    {
+      "id": 88,
+      "name": "The Bucketlist Sentul",
+      "category": "Basket",
+      "location": "Taman Budaya Sentul City, Kabupaten Bogor, Jawa Barat",
+      "pricePerHour": 80000,
+      "rating": 4.9,
+      "popular": true,
+      "capacity": 8,
+      "facilities": [
+        "Main court standar FIBA",
+        "1on1 court",
+        "Futsal",
+        "Booking event",
+        "Booking photoshoot"
+      ],
+      "description": "Venue basket dengan main court standar FIBA dan court 1-on-1. Venue juga menerima booking untuk event dan photoshoot.",
+      "schedule": [],
+      "image": "https://loremflickr.com/800/600/basketball,court?lock=88"
+    },
+    {
+      "id": 89,
+      "name": "GOGO Sport Park",
+      "category": "Badminton",
+      "location": "Jl. Dewi Sartika No.8, Sentul City, Citaringgul, Babakan Madang, Kabupaten Bogor, Jawa Barat",
+      "pricePerHour": 45000,
+      "rating": 4.8,
+      "popular": true,
+      "capacity": null,
+      "facilities": [
+        "Badminton standar BWF",
+        "Mountain view"
+      ],
+      "description": "Sport park badminton dengan lapangan yang memenuhi standar BWF dan pemandangan pegunungan.",
+      "schedule": [],
+      "image": "https://loremflickr.com/800/600/badminton,court?lock=89"
+    },
+    {
+      "id": 90,
+      "name": "Persada Basketball Half Court",
+      "category": "Basket",
+      "location": "Jl. Terusan Pembangunan No.99, Kabupaten Garut, Jawa Barat",
+      "pricePerHour": 100000,
+      "rating": 4.8,
+      "popular": true,
+      "capacity": null,
+      "facilities": [
+        "Indoor half court",
+        "Lantai vinyl",
+        "Cafe",
+        "Makanan ringan",
+        "Minuman",
+        "Musholla",
+        "Parkir mobil"
+      ],
+      "description": "Lapangan basket half court indoor dengan lantai vinyl.",
+      "schedule": [],
+      "image": "https://loremflickr.com/800/600/basketball,court?lock=90"
+    },
+    {
+      "id": 91,
+      "name": "One Padel Club",
+      "category": "Padel",
+      "location": "Kabupaten Garut, Jawa Barat",
+      "pricePerHour": 95000,
+      "rating": 4.92,
+      "popular": true,
+      "capacity": null,
+      "facilities": [
+        "Padel"
+      ],
+      "description": "Venue padel di Kabupaten Garut yang tersedia untuk pemesanan sesi.",
+      "schedule": [],
+      "image": "https://loremflickr.com/800/600/padel,tennis?lock=91"
+    },
+    {
+      "id": 92,
+      "name": "Garut Padel Club",
+      "category": "Padel",
+      "location": "Kabupaten Garut, Jawa Barat",
+      "pricePerHour": 90000,
+      "rating": null,
+      "popular": false,
+      "capacity": null,
+      "facilities": [
+        "Padel"
+      ],
+      "description": "Klub padel di Kabupaten Garut yang tercantum sebagai venue olahraga.",
+      "schedule": [],
+      "image": "https://loremflickr.com/800/600/padel,tennis?lock=92"
+    },
+    {
+      "id": 93,
+      "name": "PADEL UP - CILEUNYI",
+      "category": "Padel",
+      "location": "Jl. Raya Cipacing KM No.20-28, Rancaekek, Kabupaten Sumedang, Jawa Barat",
+      "pricePerHour": 81000,
+      "rating": 4.94,
+      "popular": true,
+      "capacity": null,
+      "facilities": [
+        "3 panoramic competition-grade courts",
+        "Cafe & resto",
+        "Shower",
+        "Musholla",
+        "Parkir",
+        "Rental raket",
+        "Rental bola"
+      ],
+      "description": "Venue padel dengan tiga panoramic competition-grade courts dan fasilitas lounge.",
+      "schedule": [],
+      "image": "https://loremflickr.com/800/600/padel,tennis?lock=93"
+    },
+    {
+      "id": 94,
+      "name": "GOR Badminton Binas",
+      "category": "Badminton",
+      "location": "Jl. Sukaasih 2, belakang Kantor Samsat Subang, Kabupaten Subang, Jawa Barat",
+      "pricePerHour": 45000,
+      "rating": 4.9,
+      "popular": true,
+      "capacity": null,
+      "facilities": [
+        "2 lapangan badminton indoor",
+        "Karpet vinyl",
+        "Musholla",
+        "Parkir mobil",
+        "Parkir motor",
+        "Tribun penonton",
+        "Makanan ringan",
+        "Minuman"
+      ],
+      "description": "Arena badminton indoor dengan dua lapangan berkarpet vinyl.",
+      "schedule": [],
+      "image": "https://loremflickr.com/800/600/badminton,court?lock=94"
+    },
+    {
+      "id": 95,
+      "name": "Padi Court",
+      "category": "Padel",
+      "location": "Antapura De Djati, Jl. Syekh Jafar Sidiq, Desa Cibiuk Kaler, Kecamatan Cibiuk, Kabupaten Garut, Jawa Barat",
+      "pricePerHour": 200000,
+      "rating": 5.0,
+      "popular": true,
+      "capacity": 4,
+      "facilities": [
+        "Padel",
+        "Cafe & resto",
+        "Hot shower",
+        "Musholla",
+        "Parkir mobil",
+        "Makanan ringan",
+        "Minuman"
+      ],
+      "description": "Venue padel di kawasan wisata Antapura De Djati dengan pemandangan persawahan dan pegunungan.",
+      "schedule": [],
+      "image": "https://loremflickr.com/800/600/padel,tennis?lock=95"
+    },
+    {
+      "id": 96,
+      "name": "Persada Basketball Half Court",
+      "category": "Basket",
+      "location": "Jl. Terusan Pembangunan No.99, Kabupaten Garut, Jawa Barat",
+      "pricePerHour": 100000,
+      "rating": 4.75,
+      "popular": true,
+      "capacity": null,
+      "facilities": [
+        "Indoor half court",
+        "Lantai vinyl",
+        "Cafe & resto",
+        "Musholla",
+        "Parkir",
+        "Ruang ganti",
+        "Shower",
+        "Toilet",
+        "WiFi"
+      ],
+      "description": "Lapangan basket half court indoor dengan lantai vinyl.",
+      "schedule": [],
+      "image": "https://loremflickr.com/800/600/basketball,court?lock=96"
+    },
+    {
+      "id": 97,
+      "name": "Tehbotol Ayo Arena",
+      "category": "Sepak Bola",
+      "location": "Taman Budaya, Sentul City, Kabupaten Bogor, Jawa Barat",
+      "pricePerHour": 1100000,
+      "rating": 4.76,
+      "popular": true,
+      "capacity": null,
+      "facilities": [
+        "Lapangan sepak bola",
+        "Mini soccer",
+        "Rumput standar FIFA",
+        "Parkir mobil",
+        "Parkir motor",
+        "Toilet",
+        "Cafe & resto",
+        "Shower",
+        "Ruang ganti",
+        "Musholla"
+      ],
+      "description": "Lapangan sepak bola ukuran internasional dengan rumput berstandar FIFA.",
+      "schedule": [],
+      "image": "https://loremflickr.com/800/600/football,stadium?lock=97"
+    },
+    {
+      "id": 98,
+      "name": "Athlon Sentul",
+      "category": "Badminton",
+      "location": "Sentul, Kabupaten Bogor, Jawa Barat",
+      "pricePerHour": 30000,
+      "rating": 4.94,
+      "popular": true,
+      "capacity": null,
+      "facilities": [
+        "Badminton",
+        "Pickleball"
+      ],
+      "description": "Venue olahraga di kawasan Sentul yang menyediakan badminton dan pickleball.",
+      "schedule": [],
+      "image": "https://loremflickr.com/800/600/badminton,court?lock=98"
+    },
+    {
+      "id": 99,
+      "name": "Bellanova Arena",
+      "category": "Mini Soccer",
+      "location": "Kabupaten Bogor, Jawa Barat",
+      "pricePerHour": 300000,
+      "rating": 5.0,
+      "popular": true,
+      "capacity": null,
+      "facilities": [
+        "Mini soccer"
+      ],
+      "description": "Arena mini soccer di Kabupaten Bogor yang tersedia untuk pemesanan sesi.",
+      "schedule": [],
+      "image": "https://loremflickr.com/800/600/soccer,field?lock=99"
+    },
+    {
+      "id": 100,
+      "name": "ASPROSENA Stadium",
+      "category": "Badminton",
+      "location": "Kabupaten Bogor, Jawa Barat",
+      "pricePerHour": 40000,
+      "rating": 4.95,
+      "popular": true,
+      "capacity": null,
+      "facilities": [
+        "Badminton"
+      ],
+      "description": "Stadium badminton di Kabupaten Bogor yang tersedia untuk booking.",
+      "schedule": [],
+      "image": "https://loremflickr.com/800/600/badminton,court?lock=100"
+    }
+  ]
+}
