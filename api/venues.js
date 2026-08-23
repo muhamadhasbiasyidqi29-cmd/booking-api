@@ -1,6 +1,16 @@
 const db = require('../db.json');
 
 module.exports = (req, res) => {
+  // Allow requests from any origin (needed for local HTML/JS testing and any frontend domain)
+  res.setHeader('Access-Control-Allow-Origin', '*');
+  res.setHeader('Access-Control-Allow-Methods', 'GET, OPTIONS');
+  res.setHeader('Access-Control-Allow-Headers', 'Content-Type');
+
+  if (req.method === 'OPTIONS') {
+    res.status(200).end();
+    return;
+  }
+
   let venues = db.venues;
   const { id, category, popular, location_like, _sort, _order } = req.query;
 
