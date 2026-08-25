@@ -22,7 +22,7 @@
         "18:00 - 20:00",
         "20:00 - 22:00"
       ],
-      "image": "https://loremflickr.com/800/600/futsal,indoor?lock=1"
+      "image": "https://loremflickr.com/800/600/futsal-court,empty,indoor-sports?lock=1"
     },
     {
       "id": 2,
@@ -46,7 +46,7 @@
         "16:00 - 18:00",
         "19:00 - 21:00"
       ],
-      "image": "https://loremflickr.com/800/600/futsal,indoor?lock=2"
+      "image": "https://loremflickr.com/800/600/futsal-court,empty,indoor-sports?lock=2"
     },
     {
       "id": 3,
@@ -70,7 +70,7 @@
         "16:00 - 20:00",
         "20:00 - 24:00"
       ],
-      "image": "https://loremflickr.com/800/600/futsal,indoor?lock=3"
+      "image": "https://loremflickr.com/800/600/futsal-court,empty,indoor-sports?lock=3"
     },
     {
       "id": 4,
@@ -95,7 +95,7 @@
         "17:00 - 21:00",
         "21:00 - 24:00"
       ],
-      "image": "https://loremflickr.com/800/600/futsal,indoor?lock=4"
+      "image": "https://loremflickr.com/800/600/futsal-court,empty,indoor-sports?lock=4"
     },
     {
       "id": 5,
@@ -117,7 +117,7 @@
         "15:00 - 17:00",
         "19:00 - 21:00"
       ],
-      "image": "https://loremflickr.com/800/600/futsal,indoor?lock=5"
+      "image": "https://loremflickr.com/800/600/futsal-court,empty,indoor-sports?lock=5"
     },
     {
       "id": 6,
@@ -142,7 +142,7 @@
         "19:00 - 22:00",
         "22:00 - 01:00"
       ],
-      "image": "https://loremflickr.com/800/600/coworking,office?lock=6"
+      "image": "https://loremflickr.com/800/600/coworking,office,interior?lock=6"
     },
     {
       "id": 7,
@@ -167,7 +167,7 @@
         "14:00 - 16:00",
         "16:00 - 18:00"
       ],
-      "image": "https://loremflickr.com/800/600/coworking,office?lock=7"
+      "image": "https://loremflickr.com/800/600/coworking,office,interior?lock=7"
     },
     {
       "id": 8,
@@ -191,7 +191,7 @@
         "13:00 - 16:00",
         "16:00 - 19:00"
       ],
-      "image": "https://loremflickr.com/800/600/coworking,office?lock=8"
+      "image": "https://loremflickr.com/800/600/coworking,office,interior?lock=8"
     },
     {
       "id": 9,
@@ -215,7 +215,7 @@
         "13:00 - 16:00",
         "16:00 - 19:00"
       ],
-      "image": "https://loremflickr.com/800/600/coworking,office?lock=9"
+      "image": "https://loremflickr.com/800/600/coworking,office,interior?lock=9"
     },
     {
       "id": 10,
@@ -239,7 +239,7 @@
         "13:00 - 15:00",
         "16:00 - 18:00"
       ],
-      "image": "https://loremflickr.com/800/600/coworking,office?lock=10"
+      "image": "https://loremflickr.com/800/600/coworking,office,interior?lock=10"
     },
     {
       "id": 11,
@@ -262,7 +262,7 @@
         "13:00 - 17:00",
         "20:00 - 00:00"
       ],
-      "image": "https://loremflickr.com/800/600/coworking,office?lock=11"
+      "image": "https://loremflickr.com/800/600/coworking,office,interior?lock=11"
     },
     {
       "id": 12,
@@ -284,7 +284,7 @@
         "08:00 - 12:00",
         "13:00 - 15:00"
       ],
-      "image": "https://loremflickr.com/800/600/library,reading?lock=12"
+      "image": "https://loremflickr.com/800/600/library,bookshelf,reading-room?lock=12"
     },
     {
       "id": 13,
@@ -306,7 +306,7 @@
         "08:00 - 12:00",
         "13:00 - 15:30"
       ],
-      "image": "https://loremflickr.com/800/600/library,reading?lock=13"
+      "image": "https://loremflickr.com/800/600/library,bookshelf,reading-room?lock=13"
     },
     {
       "id": 14,
@@ -329,7 +329,7 @@
         "09:30 - 12:00",
         "13:00 - 16:30"
       ],
-      "image": "https://loremflickr.com/800/600/library,reading?lock=14"
+      "image": "https://loremflickr.com/800/600/library,bookshelf,reading-room?lock=14"
     },
     {
       "id": 15,
@@ -350,7 +350,7 @@
         "09:00 - 12:00",
         "14:00 - 17:00"
       ],
-      "image": "https://loremflickr.com/800/600/library,reading?lock=15"
+      "image": "https://loremflickr.com/800/600/library,bookshelf,reading-room?lock=15"
     },
     {
       "id": 16,
@@ -372,7 +372,7 @@
         "13:00 - 17:00",
         "18:00 - 21:00"
       ],
-      "image": "https://loremflickr.com/800/600/library,reading?lock=16"
+      "image": "https://loremflickr.com/800/600/library,bookshelf,reading-room?lock=16"
     },
     {
       "id": 17,
@@ -396,7 +396,7 @@
         "16:00 - 18:00",
         "19:00 - 21:00"
       ],
-      "image": "https://loremflickr.com/800/600/cafe,coffeeshop?lock=17"
+      "image": "https://loremflickr.com/800/600/cafe,coffeeshop,interior?lock=17"
     },
     {
       "id": 18,
@@ -418,7 +418,7 @@
         "14:00 - 17:00",
         "19:00 - 22:00"
       ],
-      "image": "https://loremflickr.com/800/600/cafe,coffeeshop?lock=18"
+      "image": "https://loremflickr.com/800/600/cafe,coffeeshop,interior?lock=18"
     },
     {
       "id": 19,
@@ -443,7 +443,7 @@
         "15:00 - 18:00",
         "20:00 - 23:00"
       ],
-      "image": "https://loremflickr.com/800/600/cafe,coffeeshop?lock=19"
+      "image": "https://loremflickr.com/800/600/cafe,coffeeshop,interior?lock=19"
     },
     {
       "id": 20,
@@ -466,7 +466,7 @@
         "13:00 - 16:00",
         "17:00 - 20:00"
       ],
-      "image": "https://loremflickr.com/800/600/cafe,coffeeshop?lock=20"
+      "image": "https://loremflickr.com/800/600/cafe,coffeeshop,interior?lock=20"
     },
     {
       "id": 21,
@@ -490,7 +490,7 @@
         "13:00 - 17:00",
         "19:00 - 23:00"
       ],
-      "image": "https://loremflickr.com/800/600/cafe,coffeeshop?lock=21"
+      "image": "https://loremflickr.com/800/600/cafe,coffeeshop,interior?lock=21"
     },
     {
       "id": 22,
@@ -500,7 +500,7 @@
       "pricePerHour": 50000,
       "rating": 4.7,
       "popular": true,
-      "capacity": null,
+      "capacity": 30,
       "facilities": [
         "Lapangan basket",
         "Lapangan futsal",
@@ -514,7 +514,7 @@
       ],
       "description": "Pusat olahraga dengan lapangan basket, futsal, dan badminton menggunakan lantai interlock.",
       "schedule": [],
-      "image": "https://loremflickr.com/800/600/sportscenter,gym?lock=22"
+      "image": "https://loremflickr.com/800/600/sportscenter,gymnasium,court?lock=22"
     },
     {
       "id": 23,
@@ -524,7 +524,7 @@
       "pricePerHour": 65000,
       "rating": 5.0,
       "popular": true,
-      "capacity": null,
+      "capacity": 20,
       "facilities": [
         "3 lapangan badminton",
         "Lapangan vinyl standar BWF",
@@ -542,7 +542,7 @@
         "18:00 - 20:00",
         "20:00 - 22:00"
       ],
-      "image": "https://loremflickr.com/800/600/badminton,court?lock=23"
+      "image": "https://loremflickr.com/800/600/badminton-court,empty,indoor-sports?lock=23"
     },
     {
       "id": 24,
@@ -550,9 +550,9 @@
       "category": "Multi Sport",
       "location": "Bandung, Jawa Barat",
       "pricePerHour": 75000,
-      "rating": null,
+      "rating": 4.41,
       "popular": true,
-      "capacity": null,
+      "capacity": 30,
       "facilities": [
         "Futsal",
         "Basket",
@@ -568,7 +568,7 @@
       ],
       "description": "Sports hub yang menyediakan fasilitas basket, futsal, badminton dan berbagai fasilitas pendukung.",
       "schedule": [],
-      "image": "https://loremflickr.com/800/600/sportscenter,gym?lock=24"
+      "image": "https://loremflickr.com/800/600/sportscenter,gymnasium,court?lock=24"
     },
     {
       "id": 25,
@@ -578,7 +578,7 @@
       "pricePerHour": 44000,
       "rating": 4.9,
       "popular": true,
-      "capacity": null,
+      "capacity": 30,
       "facilities": [
         "Padel",
         "Gym",
@@ -598,7 +598,7 @@
       ],
       "description": "Pusat olahraga dan gaya hidup dengan berbagai fasilitas olahraga dan fasilitas pendukung dalam satu area.",
       "schedule": [],
-      "image": "https://loremflickr.com/800/600/sportscenter,gym?lock=25"
+      "image": "https://loremflickr.com/800/600/sportscenter,gymnasium,court?lock=25"
     },
     {
       "id": 26,
@@ -608,7 +608,7 @@
       "pricePerHour": 65000,
       "rating": 4.7,
       "popular": true,
-      "capacity": null,
+      "capacity": 30,
       "facilities": [
         "Futsal",
         "Basket",
@@ -622,7 +622,7 @@
       ],
       "description": "Sport center yang menyediakan berbagai jenis olahraga seperti futsal, basket, badminton, voli, tenis meja dan billiard.",
       "schedule": [],
-      "image": "https://loremflickr.com/800/600/sportscenter,gym?lock=26"
+      "image": "https://loremflickr.com/800/600/sportscenter,gymnasium,court?lock=26"
     },
     {
       "id": 27,
@@ -630,9 +630,9 @@
       "category": "Multi Sport",
       "location": "Jl. Sekekukumbung No.98, Mekar Rahayu, Margaasih, Kabupaten Bandung, Jawa Barat 40218",
       "pricePerHour": 55000,
-      "rating": null,
+      "rating": 4.41,
       "popular": true,
-      "capacity": null,
+      "capacity": 30,
       "facilities": [
         "4 lapangan badminton",
         "1 lapangan basket full size",
@@ -645,7 +645,7 @@
       ],
       "description": "Arena olahraga dengan empat lapangan badminton dan satu lapangan basket full size.",
       "schedule": [],
-      "image": "https://loremflickr.com/800/600/sportscenter,gym?lock=27"
+      "image": "https://loremflickr.com/800/600/sportscenter,gymnasium,court?lock=27"
     },
     {
       "id": 28,
@@ -655,7 +655,7 @@
       "pricePerHour": 50000,
       "rating": 1.0,
       "popular": false,
-      "capacity": null,
+      "capacity": 30,
       "facilities": [
         "3 lapangan badminton",
         "2 lapangan pickleball",
@@ -666,7 +666,7 @@
       ],
       "description": "Arena olahraga dengan tiga lapangan badminton, dua lapangan pickleball dan satu lapangan futsal.",
       "schedule": [],
-      "image": "https://loremflickr.com/800/600/sportscenter,gym?lock=28"
+      "image": "https://loremflickr.com/800/600/sportscenter,gymnasium,court?lock=28"
     },
     {
       "id": 29,
@@ -674,9 +674,9 @@
       "category": "Multi Sport",
       "location": "Bandung, Jawa Barat",
       "pricePerHour": 880000,
-      "rating": null,
+      "rating": 4.41,
       "popular": false,
-      "capacity": null,
+      "capacity": 30,
       "facilities": [
         "Futsal",
         "Badminton",
@@ -690,7 +690,7 @@
       ],
       "description": "Lapangan multifungsi yang dapat digunakan untuk futsal, badminton dan basket.",
       "schedule": [],
-      "image": "https://loremflickr.com/800/600/sportscenter,gym?lock=29"
+      "image": "https://loremflickr.com/800/600/sportscenter,gymnasium,court?lock=29"
     },
     {
       "id": 30,
@@ -700,7 +700,7 @@
       "pricePerHour": 35000,
       "rating": 4.5,
       "popular": true,
-      "capacity": null,
+      "capacity": 20,
       "facilities": [
         "Lapangan badminton",
         "Parkir"
@@ -709,7 +709,7 @@
       "schedule": [
         "08:00 - 23:00"
       ],
-      "image": "https://loremflickr.com/800/600/badminton,court?lock=30"
+      "image": "https://loremflickr.com/800/600/badminton-court,empty,indoor-sports?lock=30"
     },
     {
       "id": 31,
@@ -719,7 +719,7 @@
       "pricePerHour": 90000,
       "rating": 4.7,
       "popular": true,
-      "capacity": null,
+      "capacity": 10,
       "facilities": [
         "Lapangan basket"
       ],
@@ -727,7 +727,7 @@
       "schedule": [
         "06:00 - 22:00"
       ],
-      "image": "https://loremflickr.com/800/600/basketball,court?lock=31"
+      "image": "https://loremflickr.com/800/600/basketball-court,empty,hardwood?lock=31"
     },
     {
       "id": 32,
@@ -737,7 +737,7 @@
       "pricePerHour": 50000,
       "rating": 4.9,
       "popular": true,
-      "capacity": null,
+      "capacity": 30,
       "facilities": [
         "Badminton",
         "Padel",
@@ -751,7 +751,7 @@
       ],
       "description": "Pusat olahraga modern dengan badminton, padel, futsal, pickleball dan billiard.",
       "schedule": [],
-      "image": "https://loremflickr.com/800/600/sportscenter,gym?lock=32"
+      "image": "https://loremflickr.com/800/600/sportscenter,gymnasium,court?lock=32"
     },
     {
       "id": 33,
@@ -761,7 +761,7 @@
       "pricePerHour": 50000,
       "rating": 4.9,
       "popular": true,
-      "capacity": null,
+      "capacity": 30,
       "facilities": [
         "Tennis",
         "Pickleball",
@@ -777,7 +777,7 @@
       ],
       "description": "Sports center yang menyediakan tennis, pickleball, padel, mini soccer dan badminton.",
       "schedule": [],
-      "image": "https://loremflickr.com/800/600/sportscenter,gym?lock=33"
+      "image": "https://loremflickr.com/800/600/sportscenter,gymnasium,court?lock=33"
     },
     {
       "id": 34,
@@ -787,7 +787,7 @@
       "pricePerHour": 65000,
       "rating": 4.6,
       "popular": true,
-      "capacity": null,
+      "capacity": 10,
       "facilities": [
         "Futsal",
         "Hot shower",
@@ -799,7 +799,7 @@
       ],
       "description": "Lapangan futsal di kawasan Sultan Agung Bekasi yang tersedia untuk booking sesi.",
       "schedule": [],
-      "image": "https://loremflickr.com/800/600/futsal,indoor?lock=34"
+      "image": "https://loremflickr.com/800/600/futsal-court,empty,indoor-sports?lock=34"
     },
     {
       "id": 35,
@@ -809,7 +809,7 @@
       "pricePerHour": 40000,
       "rating": 5.0,
       "popular": true,
-      "capacity": null,
+      "capacity": 20,
       "facilities": [
         "3 lapangan badminton indoor",
         "Lapangan padel",
@@ -818,7 +818,7 @@
       ],
       "description": "Sports arena di Depok dengan tiga lapangan badminton indoor berstandar internasional dan satu lapangan padel.",
       "schedule": [],
-      "image": "https://loremflickr.com/800/600/badminton,court?lock=35"
+      "image": "https://loremflickr.com/800/600/badminton-court,empty,indoor-sports?lock=35"
     },
     {
       "id": 36,
@@ -828,14 +828,14 @@
       "pricePerHour": 40000,
       "rating": 4.8,
       "popular": true,
-      "capacity": null,
+      "capacity": 30,
       "facilities": [
         "Padel",
         "Badminton"
       ],
       "description": "Sports lifestyle venue di Sukabumi dengan fasilitas padel dan badminton.",
       "schedule": [],
-      "image": "https://loremflickr.com/800/600/sportscenter,gym?lock=36"
+      "image": "https://loremflickr.com/800/600/sportscenter,gymnasium,court?lock=36"
     },
     {
       "id": 37,
@@ -845,7 +845,7 @@
       "pricePerHour": 125000,
       "rating": 4.8,
       "popular": true,
-      "capacity": null,
+      "capacity": 8,
       "facilities": [
         "Padel",
         "Parkir",
@@ -858,7 +858,7 @@
       ],
       "description": "Lapangan padel di jantung Kota Sukabumi.",
       "schedule": [],
-      "image": "https://loremflickr.com/800/600/padel,tennis?lock=37"
+      "image": "https://loremflickr.com/800/600/padel-court,empty,glass-court?lock=37"
     },
     {
       "id": 38,
@@ -868,7 +868,7 @@
       "pricePerHour": 35000,
       "rating": 4.8,
       "popular": true,
-      "capacity": null,
+      "capacity": 20,
       "facilities": [
         "Badminton",
         "Parkir",
@@ -878,7 +878,7 @@
       ],
       "description": "Arena badminton modern dengan lantai kayu parket, ventilasi baik dan area parkir yang luas.",
       "schedule": [],
-      "image": "https://loremflickr.com/800/600/badminton,court?lock=38"
+      "image": "https://loremflickr.com/800/600/badminton-court,empty,indoor-sports?lock=38"
     },
     {
       "id": 39,
@@ -888,14 +888,14 @@
       "pricePerHour": 30000,
       "rating": 4.8,
       "popular": true,
-      "capacity": null,
+      "capacity": 20,
       "facilities": [
         "2 lapangan badminton",
         "Karpet vinyl premium"
       ],
       "description": "GOR dengan dua lapangan badminton menggunakan karpet vinyl hijau premium.",
       "schedule": [],
-      "image": "https://loremflickr.com/800/600/badminton,court?lock=39"
+      "image": "https://loremflickr.com/800/600/badminton-court,empty,indoor-sports?lock=39"
     },
     {
       "id": 40,
@@ -918,7 +918,7 @@
       ],
       "description": "Lapangan basket dengan main court berstandar FIBA dan area 1on1.",
       "schedule": [],
-      "image": "https://loremflickr.com/800/600/basketball,court?lock=40"
+      "image": "https://loremflickr.com/800/600/basketball-court,empty,hardwood?lock=40"
     },
     {
       "id": 41,
@@ -928,7 +928,7 @@
       "pricePerHour": 99000,
       "rating": 4.9,
       "popular": true,
-      "capacity": null,
+      "capacity": 8,
       "facilities": [
         "3 court padel",
         "Open play",
@@ -938,7 +938,7 @@
       "schedule": [
         "06:00 - 23:00"
       ],
-      "image": "https://loremflickr.com/800/600/padel,tennis?lock=41"
+      "image": "https://loremflickr.com/800/600/padel-court,empty,glass-court?lock=41"
     },
     {
       "id": 42,
@@ -948,7 +948,7 @@
       "pricePerHour": 100000,
       "rating": 5.0,
       "popular": true,
-      "capacity": null,
+      "capacity": 8,
       "facilities": [
         "Regular padel court",
         "Single padel court",
@@ -961,7 +961,7 @@
       ],
       "description": "Padel court di Kota Bogor dengan satu regular court dan satu single court.",
       "schedule": [],
-      "image": "https://loremflickr.com/800/600/padel,tennis?lock=42"
+      "image": "https://loremflickr.com/800/600/padel-court,empty,glass-court?lock=42"
     },
     {
       "id": 43,
@@ -969,9 +969,9 @@
       "category": "Padel",
       "location": "Bogor Timur, Kota Bogor, Jawa Barat 16142",
       "pricePerHour": 100000,
-      "rating": null,
+      "rating": 4.9,
       "popular": true,
-      "capacity": null,
+      "capacity": 8,
       "facilities": [
         "3 padel courts",
         "Cafe",
@@ -982,7 +982,7 @@
       ],
       "description": "Venue padel Bogor dengan tiga court berkualitas dan lounge.",
       "schedule": [],
-      "image": "https://loremflickr.com/800/600/padel,tennis?lock=43"
+      "image": "https://loremflickr.com/800/600/padel-court,empty,glass-court?lock=43"
     },
     {
       "id": 44,
@@ -990,9 +990,9 @@
       "category": "Padel",
       "location": "Jl. Sholeh Iskandar, Kedung Badak, Tanah Sereal, Kota Bogor, Jawa Barat",
       "pricePerHour": 160000,
-      "rating": null,
+      "rating": 4.9,
       "popular": false,
-      "capacity": null,
+      "capacity": 8,
       "facilities": [
         "Private padel court",
         "Musholla",
@@ -1003,7 +1003,7 @@
       ],
       "description": "Private padel court dengan desain estetik dan fasilitas premium.",
       "schedule": [],
-      "image": "https://loremflickr.com/800/600/padel,tennis?lock=44"
+      "image": "https://loremflickr.com/800/600/padel-court,empty,glass-court?lock=44"
     },
     {
       "id": 45,
@@ -1022,7 +1022,7 @@
       ],
       "description": "Premium padel venue dengan enam panoramic international courts dan area parkir hingga 60 mobil.",
       "schedule": [],
-      "image": "https://loremflickr.com/800/600/padel,tennis?lock=45"
+      "image": "https://loremflickr.com/800/600/padel-court,empty,glass-court?lock=45"
     },
     {
       "id": 46,
@@ -1030,9 +1030,9 @@
       "category": "Padel",
       "location": "Jl. Kaum Sari No.1, Kawasan OCBD, Cibuluh, Bogor Utara, Kota Bogor, Jawa Barat 16151",
       "pricePerHour": 120000,
-      "rating": null,
+      "rating": 4.9,
       "popular": true,
-      "capacity": null,
+      "capacity": 8,
       "facilities": [
         "Padel",
         "Hot shower",
@@ -1042,7 +1042,7 @@
       ],
       "description": "Venue padel di kawasan OCBD Bogor dengan fasilitas olahraga dan area cafe.",
       "schedule": [],
-      "image": "https://loremflickr.com/800/600/padel,tennis?lock=46"
+      "image": "https://loremflickr.com/800/600/padel-court,empty,glass-court?lock=46"
     },
     {
       "id": 47,
@@ -1050,9 +1050,9 @@
       "category": "Padel",
       "location": "Jl. Raya Tajur No.265, Muarasari, Bogor Selatan, Kota Bogor, Jawa Barat",
       "pricePerHour": 99000,
-      "rating": null,
+      "rating": 4.9,
       "popular": true,
-      "capacity": null,
+      "capacity": 8,
       "facilities": [
         "Padel",
         "Musholla",
@@ -1063,7 +1063,7 @@
       ],
       "description": "Venue padel di kawasan Tajur Bogor dengan fasilitas pendukung lengkap.",
       "schedule": [],
-      "image": "https://loremflickr.com/800/600/padel,tennis?lock=47"
+      "image": "https://loremflickr.com/800/600/padel-court,empty,glass-court?lock=47"
     },
     {
       "id": 48,
@@ -1073,7 +1073,7 @@
       "pricePerHour": 50000,
       "rating": 4.9,
       "popular": true,
-      "capacity": null,
+      "capacity": 20,
       "facilities": [
         "4 lapangan badminton",
         "Cafe",
@@ -1084,7 +1084,7 @@
       ],
       "description": "GOR dengan empat lapangan badminton standar turnamen.",
       "schedule": [],
-      "image": "https://loremflickr.com/800/600/badminton,court?lock=48"
+      "image": "https://loremflickr.com/800/600/badminton-court,empty,indoor-sports?lock=48"
     },
     {
       "id": 49,
@@ -1092,9 +1092,9 @@
       "category": "Tennis",
       "location": "Jl. Ciwaringin II No.4, Ciwaringin, Bogor Tengah, Kota Bogor, Jawa Barat",
       "pricePerHour": 75000,
-      "rating": null,
+      "rating": 4.73,
       "popular": false,
-      "capacity": null,
+      "capacity": 4,
       "facilities": [
         "Tennis",
         "Musholla",
@@ -1105,7 +1105,7 @@
       ],
       "description": "Lapangan tennis di kawasan Bogor Tengah yang tersedia untuk booking.",
       "schedule": [],
-      "image": "https://loremflickr.com/800/600/tennis,court?lock=49"
+      "image": "https://loremflickr.com/800/600/tennis-court,empty,clay-court?lock=49"
     },
     {
       "id": 50,
@@ -1115,7 +1115,7 @@
       "pricePerHour": 245000,
       "rating": 4.9,
       "popular": true,
-      "capacity": null,
+      "capacity": 8,
       "facilities": [
         "Padel",
         "Cafe",
@@ -1126,7 +1126,7 @@
       ],
       "description": "Social club padel, restaurant dan art space di Bogor.",
       "schedule": [],
-      "image": "https://loremflickr.com/800/600/padel,tennis?lock=50"
+      "image": "https://loremflickr.com/800/600/padel-court,empty,glass-court?lock=50"
     },
     {
       "id": 51,
@@ -1136,7 +1136,7 @@
       "pricePerHour": 75000,
       "rating": 4.8,
       "popular": true,
-      "capacity": null,
+      "capacity": 20,
       "facilities": [
         "3 lapangan badminton",
         "Pencahayaan LED",
@@ -1149,7 +1149,7 @@
       ],
       "description": "Arena badminton dengan tiga lapangan dan fasilitas pendukung yang lengkap.",
       "schedule": [],
-      "image": "https://loremflickr.com/800/600/badminton,court?lock=51"
+      "image": "https://loremflickr.com/800/600/badminton-court,empty,indoor-sports?lock=51"
     },
     {
       "id": 52,
@@ -1159,7 +1159,7 @@
       "pricePerHour": 45000,
       "rating": 5.0,
       "popular": true,
-      "capacity": null,
+      "capacity": 20,
       "facilities": [
         "2 lapangan badminton indoor",
         "Ruang tunggu",
@@ -1171,7 +1171,7 @@
       ],
       "description": "Lapangan badminton indoor dengan dua court dan fasilitas ruang tunggu.",
       "schedule": [],
-      "image": "https://loremflickr.com/800/600/badminton,court?lock=52"
+      "image": "https://loremflickr.com/800/600/badminton-court,empty,indoor-sports?lock=52"
     },
     {
       "id": 53,
@@ -1181,11 +1181,11 @@
       "pricePerHour": 30000,
       "rating": 4.84,
       "popular": true,
-      "capacity": null,
+      "capacity": 20,
       "facilities": [],
       "description": "Venue badminton di kawasan Grage City Mall Cirebon.",
       "schedule": [],
-      "image": "https://loremflickr.com/800/600/badminton,court?lock=53"
+      "image": "https://loremflickr.com/800/600/badminton-court,empty,indoor-sports?lock=53"
     },
     {
       "id": 54,
@@ -1195,11 +1195,11 @@
       "pricePerHour": 45000,
       "rating": 4.71,
       "popular": true,
-      "capacity": null,
+      "capacity": 20,
       "facilities": [],
       "description": "Sport centre di Klayan Cirebon yang menyediakan fasilitas badminton.",
       "schedule": [],
-      "image": "https://loremflickr.com/800/600/badminton,court?lock=54"
+      "image": "https://loremflickr.com/800/600/badminton-court,empty,indoor-sports?lock=54"
     },
     {
       "id": 55,
@@ -1207,13 +1207,13 @@
       "category": "Badminton",
       "location": "Kota Cirebon, Jawa Barat",
       "pricePerHour": 70000,
-      "rating": null,
+      "rating": 4.89,
       "popular": false,
-      "capacity": null,
+      "capacity": 20,
       "facilities": [],
       "description": "Sports club di Kota Cirebon dengan fasilitas badminton yang dapat dipesan.",
       "schedule": [],
-      "image": "https://loremflickr.com/800/600/badminton,court?lock=55"
+      "image": "https://loremflickr.com/800/600/badminton-court,empty,indoor-sports?lock=55"
     },
     {
       "id": 56,
@@ -1221,9 +1221,9 @@
       "category": "Multi Sport",
       "location": "Jl. Ibu Apipah No.12, Kahuripan, Tawang, Kota Tasikmalaya, Jawa Barat",
       "pricePerHour": 60000,
-      "rating": null,
+      "rating": 4.41,
       "popular": true,
-      "capacity": null,
+      "capacity": 30,
       "facilities": [
         "Basket",
         "Pickleball",
@@ -1238,7 +1238,7 @@
       ],
       "description": "Arena multisport dengan lapangan basket, pickleball, badminton dan tennis.",
       "schedule": [],
-      "image": "https://loremflickr.com/800/600/sportscenter,gym?lock=56"
+      "image": "https://loremflickr.com/800/600/sportscenter,gymnasium,court?lock=56"
     },
     {
       "id": 57,
@@ -1248,11 +1248,11 @@
       "pricePerHour": 30000,
       "rating": 5.0,
       "popular": true,
-      "capacity": null,
+      "capacity": 20,
       "facilities": [],
       "description": "Sport hall di Kota Tasikmalaya dengan fasilitas badminton.",
       "schedule": [],
-      "image": "https://loremflickr.com/800/600/badminton,court?lock=57"
+      "image": "https://loremflickr.com/800/600/badminton-court,empty,indoor-sports?lock=57"
     },
     {
       "id": 58,
@@ -1262,7 +1262,7 @@
       "pricePerHour": 97500,
       "rating": 4.95,
       "popular": true,
-      "capacity": null,
+      "capacity": 8,
       "facilities": [
         "Padel",
         "Cafe",
@@ -1274,7 +1274,7 @@
       ],
       "description": "Venue padel dengan café dan fasilitas pendukung yang cocok untuk bermain santai maupun latihan.",
       "schedule": [],
-      "image": "https://loremflickr.com/800/600/padel,tennis?lock=58"
+      "image": "https://loremflickr.com/800/600/padel-court,empty,glass-court?lock=58"
     },
     {
       "id": 59,
@@ -1284,7 +1284,7 @@
       "pricePerHour": 100000,
       "rating": 4.85,
       "popular": true,
-      "capacity": null,
+      "capacity": 8,
       "facilities": [
         "Padel",
         "Cafe",
@@ -1296,7 +1296,7 @@
       ],
       "description": "Padel club di Cianjur dengan fasilitas café dan area pendukung.",
       "schedule": [],
-      "image": "https://loremflickr.com/800/600/padel,tennis?lock=59"
+      "image": "https://loremflickr.com/800/600/padel-court,empty,glass-court?lock=59"
     },
     {
       "id": 60,
@@ -1304,9 +1304,9 @@
       "category": "Mini Soccer",
       "location": "Cibeber, Kabupaten Cianjur, Jawa Barat",
       "pricePerHour": 100000,
-      "rating": null,
+      "rating": 5.0,
       "popular": true,
-      "capacity": null,
+      "capacity": 14,
       "facilities": [
         "Rumput sintetis",
         "Parkir mobil",
@@ -1319,7 +1319,7 @@
       ],
       "description": "Sarana olahraga sepak bola di wilayah Cibeber Cianjur dengan rumput sintetis.",
       "schedule": [],
-      "image": "https://loremflickr.com/800/600/soccer,field?lock=60"
+      "image": "https://loremflickr.com/800/600/soccer-field,empty,turf?lock=60"
     },
     {
       "id": 61,
@@ -1329,7 +1329,7 @@
       "pricePerHour": 110000,
       "rating": 4.9,
       "popular": true,
-      "capacity": null,
+      "capacity": 8,
       "facilities": [
         "Cafe & Resto",
         "Makanan ringan",
@@ -1344,7 +1344,7 @@
       ],
       "description": "Venue panoramic padel di Karawang dengan fasilitas lengkap.",
       "schedule": [],
-      "image": "https://loremflickr.com/800/600/padel,tennis?lock=61"
+      "image": "https://loremflickr.com/800/600/padel-court,empty,glass-court?lock=61"
     },
     {
       "id": 62,
@@ -1354,7 +1354,7 @@
       "pricePerHour": 70000,
       "rating": 5.0,
       "popular": true,
-      "capacity": null,
+      "capacity": 8,
       "facilities": [
         "4 court padel",
         "Cafe & Resto",
@@ -1366,7 +1366,7 @@
       ],
       "description": "Venue padel dengan empat court di Rest Area Aliyah Karawang Barat.",
       "schedule": [],
-      "image": "https://loremflickr.com/800/600/padel,tennis?lock=62"
+      "image": "https://loremflickr.com/800/600/padel-court,empty,glass-court?lock=62"
     },
     {
       "id": 63,
@@ -1376,11 +1376,11 @@
       "pricePerHour": 140000,
       "rating": 4.9,
       "popular": true,
-      "capacity": null,
+      "capacity": 8,
       "facilities": [],
       "description": "Venue padel premium di kawasan Resinda Karawang.",
       "schedule": [],
-      "image": "https://loremflickr.com/800/600/padel,tennis?lock=63"
+      "image": "https://loremflickr.com/800/600/padel-court,empty,glass-court?lock=63"
     },
     {
       "id": 64,
@@ -1390,7 +1390,7 @@
       "pricePerHour": 169000,
       "rating": 5.0,
       "popular": true,
-      "capacity": null,
+      "capacity": 8,
       "facilities": [
         "Cafe & Resto",
         "Hot shower",
@@ -1410,7 +1410,7 @@
       ],
       "description": "Venue padel premium dengan coaching, community event, dan fasilitas lengkap.",
       "schedule": [],
-      "image": "https://loremflickr.com/800/600/padel,tennis?lock=64"
+      "image": "https://loremflickr.com/800/600/padel-court,empty,glass-court?lock=64"
     },
     {
       "id": 65,
@@ -1420,7 +1420,7 @@
       "pricePerHour": 150000,
       "rating": 4.95,
       "popular": true,
-      "capacity": null,
+      "capacity": 8,
       "facilities": [
         "3 court padel",
         "Cafe",
@@ -1437,7 +1437,7 @@
         "18:00 - 20:00",
         "20:00 - 23:00"
       ],
-      "image": "https://loremflickr.com/800/600/padel,tennis?lock=65"
+      "image": "https://loremflickr.com/800/600/padel-court,empty,glass-court?lock=65"
     },
     {
       "id": 66,
@@ -1447,7 +1447,7 @@
       "pricePerHour": 220000,
       "rating": 4.9,
       "popular": true,
-      "capacity": null,
+      "capacity": 8,
       "facilities": [
         "Padel",
         "Raket rental",
@@ -1456,7 +1456,7 @@
       ],
       "description": "Private padel venue di kawasan Jatiluhur dengan satu court dan suasana privat.",
       "schedule": [],
-      "image": "https://loremflickr.com/800/600/padel,tennis?lock=66"
+      "image": "https://loremflickr.com/800/600/padel-court,empty,glass-court?lock=66"
     },
     {
       "id": 67,
@@ -1464,9 +1464,9 @@
       "category": "Padel",
       "location": "Purwamekar, Purwakarta, Kabupaten Purwakarta, Jawa Barat 41151",
       "pricePerHour": 99999,
-      "rating": null,
+      "rating": 4.9,
       "popular": true,
-      "capacity": null,
+      "capacity": 8,
       "facilities": [
         "Cafe & Resto",
         "Hot shower",
@@ -1477,7 +1477,7 @@
       ],
       "description": "Venue padel dengan konsep olahraga, kopi, dan tempat berkumpul.",
       "schedule": [],
-      "image": "https://loremflickr.com/800/600/padel,tennis?lock=67"
+      "image": "https://loremflickr.com/800/600/padel-court,empty,glass-court?lock=67"
     },
     {
       "id": 68,
@@ -1487,7 +1487,7 @@
       "pricePerHour": 100000,
       "rating": 5.0,
       "popular": true,
-      "capacity": null,
+      "capacity": 8,
       "facilities": [
         "Ruang tunggu",
         "Kursi",
@@ -1495,7 +1495,7 @@
       ],
       "description": "Venue padel dengan sistem ketersediaan jadwal yang dapat dipesan melalui platform booking.",
       "schedule": [],
-      "image": "https://loremflickr.com/800/600/padel,tennis?lock=68"
+      "image": "https://loremflickr.com/800/600/padel-court,empty,glass-court?lock=68"
     },
     {
       "id": 69,
@@ -1505,7 +1505,7 @@
       "pricePerHour": 100000,
       "rating": 4.5,
       "popular": true,
-      "capacity": null,
+      "capacity": 8,
       "facilities": [
         "Ruang ganti",
         "Shower",
@@ -1516,7 +1516,7 @@
       ],
       "description": "Venue padel dengan fasilitas court dan area pendukung termasuk VIP room.",
       "schedule": [],
-      "image": "https://loremflickr.com/800/600/padel,tennis?lock=69"
+      "image": "https://loremflickr.com/800/600/padel-court,empty,glass-court?lock=69"
     },
     {
       "id": 70,
@@ -1526,7 +1526,7 @@
       "pricePerHour": 100000,
       "rating": 4.9,
       "popular": true,
-      "capacity": null,
+      "capacity": 8,
       "facilities": [
         "Cafe & Resto",
         "Minuman",
@@ -1539,7 +1539,7 @@
       ],
       "description": "Venue padel dengan fasilitas pendukung lengkap dan sistem booking online.",
       "schedule": [],
-      "image": "https://loremflickr.com/800/600/padel,tennis?lock=70"
+      "image": "https://loremflickr.com/800/600/padel-court,empty,glass-court?lock=70"
     },
     {
       "id": 71,
@@ -1549,7 +1549,7 @@
       "pricePerHour": 115000,
       "rating": 4.06,
       "popular": true,
-      "capacity": null,
+      "capacity": 30,
       "facilities": [
         "Cafe & Resto",
         "Parkir",
@@ -1558,7 +1558,7 @@
       ],
       "description": "Sport center di Cimahi yang menyediakan fasilitas olahraga dan dapat digunakan untuk booking lapangan.",
       "schedule": [],
-      "image": "https://loremflickr.com/800/600/sportscenter,gym?lock=71"
+      "image": "https://loremflickr.com/800/600/sportscenter,gymnasium,court?lock=71"
     },
     {
       "id": 72,
@@ -1568,14 +1568,14 @@
       "pricePerHour": 100000,
       "rating": 4.9,
       "popular": true,
-      "capacity": null,
+      "capacity": 8,
       "facilities": [
         "Padel",
         "Court indoor"
       ],
       "description": "Klub padel di Cimahi dengan beberapa court dan sistem booking berdasarkan slot waktu.",
       "schedule": [],
-      "image": "https://loremflickr.com/800/600/padel,tennis?lock=72"
+      "image": "https://loremflickr.com/800/600/padel-court,empty,glass-court?lock=72"
     },
     {
       "id": 73,
@@ -1585,7 +1585,7 @@
       "pricePerHour": 500000,
       "rating": 5.0,
       "popular": true,
-      "capacity": null,
+      "capacity": 22,
       "facilities": [
         "Lapangan sepak bola sintetis",
         "Musholla",
@@ -1594,7 +1594,7 @@
       ],
       "description": "Lapangan sepak bola sintetis yang tersedia untuk booking sesi.",
       "schedule": [],
-      "image": "https://loremflickr.com/800/600/football,stadium?lock=73"
+      "image": "https://loremflickr.com/800/600/football-stadium,empty,stadium-field?lock=73"
     },
     {
       "id": 74,
@@ -1604,7 +1604,7 @@
       "pricePerHour": 50000,
       "rating": 5.0,
       "popular": true,
-      "capacity": null,
+      "capacity": 30,
       "facilities": [
         "3 lapangan badminton",
         "2 lapangan pickleball",
@@ -1618,7 +1618,7 @@
       ],
       "description": "Arena olahraga dengan tiga lapangan badminton, dua pickleball dan satu futsal.",
       "schedule": [],
-      "image": "https://loremflickr.com/800/600/sportscenter,gym?lock=74"
+      "image": "https://loremflickr.com/800/600/sportscenter,gymnasium,court?lock=74"
     },
     {
       "id": 75,
@@ -1628,7 +1628,7 @@
       "pricePerHour": 95000,
       "rating": 4.97,
       "popular": true,
-      "capacity": null,
+      "capacity": 8,
       "facilities": [
         "2 panoramic padel courts",
         "Area communal",
@@ -1637,7 +1637,7 @@
       ],
       "description": "Venue padel dengan dua panoramic court bersertifikasi IPF dan area communal yang luas.",
       "schedule": [],
-      "image": "https://loremflickr.com/800/600/padel,tennis?lock=75"
+      "image": "https://loremflickr.com/800/600/padel-court,empty,glass-court?lock=75"
     },
     {
       "id": 76,
@@ -1647,7 +1647,7 @@
       "pricePerHour": 35000,
       "rating": 4.8,
       "popular": true,
-      "capacity": null,
+      "capacity": 20,
       "facilities": [
         "Badminton",
         "Musholla",
@@ -1658,7 +1658,7 @@
       ],
       "description": "GOR badminton yang menyediakan pemesanan lapangan melalui platform booking.",
       "schedule": [],
-      "image": "https://loremflickr.com/800/600/badminton,court?lock=76"
+      "image": "https://loremflickr.com/800/600/badminton-court,empty,indoor-sports?lock=76"
     },
     {
       "id": 77,
@@ -1668,7 +1668,7 @@
       "pricePerHour": 40000,
       "rating": 5.0,
       "popular": true,
-      "capacity": null,
+      "capacity": 20,
       "facilities": [
         "Badminton",
         "Cafe & Resto",
@@ -1676,7 +1676,7 @@
       ],
       "description": "Venue badminton dengan fasilitas cafe dan shower serta sistem ketersediaan jadwal.",
       "schedule": [],
-      "image": "https://loremflickr.com/800/600/badminton,court?lock=77"
+      "image": "https://loremflickr.com/800/600/badminton-court,empty,indoor-sports?lock=77"
     },
     {
       "id": 78,
@@ -1686,7 +1686,7 @@
       "pricePerHour": 100000,
       "rating": 4.8,
       "popular": true,
-      "capacity": null,
+      "capacity": 10,
       "facilities": [
         "2 lapangan futsal interlock standar FIFA",
         "Musholla",
@@ -1700,7 +1700,7 @@
       ],
       "description": "Venue futsal dengan dua lapangan interlock standar FIFA dan fasilitas pendukung lengkap.",
       "schedule": [],
-      "image": "https://loremflickr.com/800/600/futsal,indoor?lock=78"
+      "image": "https://loremflickr.com/800/600/futsal-court,empty,indoor-sports?lock=78"
     },
     {
       "id": 79,
@@ -1710,7 +1710,7 @@
       "pricePerHour": 55000,
       "rating": 5.0,
       "popular": true,
-      "capacity": null,
+      "capacity": 30,
       "facilities": [
         "4 lapangan badminton",
         "1 lapangan basket full size",
@@ -1721,7 +1721,7 @@
       ],
       "description": "Arena olahraga dengan empat lapangan badminton dan satu lapangan basket full size.",
       "schedule": [],
-      "image": "https://loremflickr.com/800/600/sportscenter,gym?lock=79"
+      "image": "https://loremflickr.com/800/600/sportscenter,gymnasium,court?lock=79"
     },
     {
       "id": 80,
@@ -1731,7 +1731,7 @@
       "pricePerHour": 45000,
       "rating": 5.0,
       "popular": true,
-      "capacity": null,
+      "capacity": 20,
       "facilities": [
         "Badminton",
         "Lapangan VIP",
@@ -1739,7 +1739,7 @@
       ],
       "description": "Arena badminton dengan beberapa pilihan lapangan dan sistem ketersediaan jadwal.",
       "schedule": [],
-      "image": "https://loremflickr.com/800/600/badminton,court?lock=80"
+      "image": "https://loremflickr.com/800/600/badminton-court,empty,indoor-sports?lock=80"
     },
     {
       "id": 81,
@@ -1749,7 +1749,7 @@
       "pricePerHour": 35000,
       "rating": 5.0,
       "popular": true,
-      "capacity": null,
+      "capacity": 20,
       "facilities": [
         "4 lapangan badminton",
         "Parkir luas",
@@ -1760,7 +1760,7 @@
       ],
       "description": "GOR badminton dengan empat lapangan berkarpet dan fasilitas pendukung yang lengkap.",
       "schedule": [],
-      "image": "https://loremflickr.com/800/600/badminton,court?lock=81"
+      "image": "https://loremflickr.com/800/600/badminton-court,empty,indoor-sports?lock=81"
     },
     {
       "id": 82,
@@ -1768,9 +1768,9 @@
       "category": "Badminton",
       "location": "Jl. Babakan Kulon I 6, Babakan, Ciseeng, Kabupaten Bogor, Jawa Barat 16120",
       "pricePerHour": 35000,
-      "rating": null,
+      "rating": 4.89,
       "popular": false,
-      "capacity": null,
+      "capacity": 20,
       "facilities": [
         "Musholla",
         "Parkir mobil",
@@ -1781,7 +1781,7 @@
       ],
       "description": "GOR badminton di Ciseeng dengan fasilitas pendukung dan sistem pengecekan ketersediaan.",
       "schedule": [],
-      "image": "https://loremflickr.com/800/600/badminton,court?lock=82"
+      "image": "https://loremflickr.com/800/600/badminton-court,empty,indoor-sports?lock=82"
     },
     {
       "id": 83,
@@ -1791,7 +1791,7 @@
       "pricePerHour": 30000,
       "rating": 5.0,
       "popular": true,
-      "capacity": null,
+      "capacity": 20,
       "facilities": [
         "5 lapangan badminton indoor",
         "Lapangan standar BWF",
@@ -1800,7 +1800,7 @@
       ],
       "description": "GOR badminton indoor dengan lima lapangan standar BWF.",
       "schedule": [],
-      "image": "https://loremflickr.com/800/600/badminton,court?lock=83"
+      "image": "https://loremflickr.com/800/600/badminton-court,empty,indoor-sports?lock=83"
     },
     {
       "id": 84,
@@ -1810,7 +1810,7 @@
       "pricePerHour": 50000,
       "rating": 4.8,
       "popular": true,
-      "capacity": null,
+      "capacity": 20,
       "facilities": [
         "5 lapangan badminton indoor",
         "Tribun",
@@ -1818,7 +1818,7 @@
       ],
       "description": "GOR badminton dengan lima lapangan indoor dan pilihan tribun pada beberapa lapangan.",
       "schedule": [],
-      "image": "https://loremflickr.com/800/600/badminton,court?lock=84"
+      "image": "https://loremflickr.com/800/600/badminton-court,empty,indoor-sports?lock=84"
     },
     {
       "id": 85,
@@ -1828,7 +1828,7 @@
       "pricePerHour": 60000,
       "rating": 4.9,
       "popular": true,
-      "capacity": null,
+      "capacity": 20,
       "facilities": [
         "4 lapangan badminton indoor standar BWF",
         "Ruang tunggu",
@@ -1840,7 +1840,7 @@
       ],
       "description": "Venue badminton dengan empat lapangan standar BWF dan berbagai fasilitas pendukung.",
       "schedule": [],
-      "image": "https://loremflickr.com/800/600/badminton,court?lock=85"
+      "image": "https://loremflickr.com/800/600/badminton-court,empty,indoor-sports?lock=85"
     },
     {
       "id": 86,
@@ -1850,7 +1850,7 @@
       "pricePerHour": 40000,
       "rating": 5.0,
       "popular": true,
-      "capacity": null,
+      "capacity": 20,
       "facilities": [
         "4 lapangan badminton",
         "Musholla",
@@ -1861,7 +1861,7 @@
       ],
       "description": "Racquet club dengan empat lapangan badminton.",
       "schedule": [],
-      "image": "https://loremflickr.com/800/600/badminton,court?lock=86"
+      "image": "https://loremflickr.com/800/600/badminton-court,empty,indoor-sports?lock=86"
     },
     {
       "id": 87,
@@ -1871,7 +1871,7 @@
       "pricePerHour": 140000,
       "rating": 4.6,
       "popular": true,
-      "capacity": null,
+      "capacity": 30,
       "facilities": [
         "Futsal",
         "Basket",
@@ -1883,7 +1883,7 @@
       ],
       "description": "Sport center indoor dan outdoor yang dapat digunakan untuk futsal, basket, dan badminton.",
       "schedule": [],
-      "image": "https://loremflickr.com/800/600/sportscenter,gym?lock=87"
+      "image": "https://loremflickr.com/800/600/sportscenter,gymnasium,court?lock=87"
     },
     {
       "id": 88,
@@ -1903,7 +1903,7 @@
       ],
       "description": "Venue basket dengan main court standar FIBA dan court 1-on-1. Venue juga menerima booking untuk event dan photoshoot.",
       "schedule": [],
-      "image": "https://loremflickr.com/800/600/basketball,court?lock=88"
+      "image": "https://loremflickr.com/800/600/basketball-court,empty,hardwood?lock=88"
     },
     {
       "id": 89,
@@ -1913,14 +1913,14 @@
       "pricePerHour": 45000,
       "rating": 4.8,
       "popular": true,
-      "capacity": null,
+      "capacity": 20,
       "facilities": [
         "Badminton standar BWF",
         "Mountain view"
       ],
       "description": "Sport park badminton dengan lapangan yang memenuhi standar BWF dan pemandangan pegunungan.",
       "schedule": [],
-      "image": "https://loremflickr.com/800/600/badminton,court?lock=89"
+      "image": "https://loremflickr.com/800/600/badminton-court,empty,indoor-sports?lock=89"
     },
     {
       "id": 90,
@@ -1930,7 +1930,7 @@
       "pricePerHour": 100000,
       "rating": 4.8,
       "popular": true,
-      "capacity": null,
+      "capacity": 10,
       "facilities": [
         "Indoor half court",
         "Lantai vinyl",
@@ -1942,7 +1942,7 @@
       ],
       "description": "Lapangan basket half court indoor dengan lantai vinyl.",
       "schedule": [],
-      "image": "https://loremflickr.com/800/600/basketball,court?lock=90"
+      "image": "https://loremflickr.com/800/600/basketball-court,empty,hardwood?lock=90"
     },
     {
       "id": 91,
@@ -1952,13 +1952,13 @@
       "pricePerHour": 95000,
       "rating": 4.92,
       "popular": true,
-      "capacity": null,
+      "capacity": 8,
       "facilities": [
         "Padel"
       ],
       "description": "Venue padel di Kabupaten Garut yang tersedia untuk pemesanan sesi.",
       "schedule": [],
-      "image": "https://loremflickr.com/800/600/padel,tennis?lock=91"
+      "image": "https://loremflickr.com/800/600/padel-court,empty,glass-court?lock=91"
     },
     {
       "id": 92,
@@ -1966,15 +1966,15 @@
       "category": "Padel",
       "location": "Kabupaten Garut, Jawa Barat",
       "pricePerHour": 90000,
-      "rating": null,
+      "rating": 4.9,
       "popular": false,
-      "capacity": null,
+      "capacity": 8,
       "facilities": [
         "Padel"
       ],
       "description": "Klub padel di Kabupaten Garut yang tercantum sebagai venue olahraga.",
       "schedule": [],
-      "image": "https://loremflickr.com/800/600/padel,tennis?lock=92"
+      "image": "https://loremflickr.com/800/600/padel-court,empty,glass-court?lock=92"
     },
     {
       "id": 93,
@@ -1984,7 +1984,7 @@
       "pricePerHour": 81000,
       "rating": 4.94,
       "popular": true,
-      "capacity": null,
+      "capacity": 8,
       "facilities": [
         "3 panoramic competition-grade courts",
         "Cafe & resto",
@@ -1996,7 +1996,7 @@
       ],
       "description": "Venue padel dengan tiga panoramic competition-grade courts dan fasilitas lounge.",
       "schedule": [],
-      "image": "https://loremflickr.com/800/600/padel,tennis?lock=93"
+      "image": "https://loremflickr.com/800/600/padel-court,empty,glass-court?lock=93"
     },
     {
       "id": 94,
@@ -2006,7 +2006,7 @@
       "pricePerHour": 45000,
       "rating": 4.9,
       "popular": true,
-      "capacity": null,
+      "capacity": 20,
       "facilities": [
         "2 lapangan badminton indoor",
         "Karpet vinyl",
@@ -2019,7 +2019,7 @@
       ],
       "description": "Arena badminton indoor dengan dua lapangan berkarpet vinyl.",
       "schedule": [],
-      "image": "https://loremflickr.com/800/600/badminton,court?lock=94"
+      "image": "https://loremflickr.com/800/600/badminton-court,empty,indoor-sports?lock=94"
     },
     {
       "id": 95,
@@ -2041,7 +2041,7 @@
       ],
       "description": "Venue padel di kawasan wisata Antapura De Djati dengan pemandangan persawahan dan pegunungan.",
       "schedule": [],
-      "image": "https://loremflickr.com/800/600/padel,tennis?lock=95"
+      "image": "https://loremflickr.com/800/600/padel-court,empty,glass-court?lock=95"
     },
     {
       "id": 96,
@@ -2051,7 +2051,7 @@
       "pricePerHour": 100000,
       "rating": 4.75,
       "popular": true,
-      "capacity": null,
+      "capacity": 10,
       "facilities": [
         "Indoor half court",
         "Lantai vinyl",
@@ -2065,7 +2065,7 @@
       ],
       "description": "Lapangan basket half court indoor dengan lantai vinyl.",
       "schedule": [],
-      "image": "https://loremflickr.com/800/600/basketball,court?lock=96"
+      "image": "https://loremflickr.com/800/600/basketball-court,empty,hardwood?lock=96"
     },
     {
       "id": 97,
@@ -2075,7 +2075,7 @@
       "pricePerHour": 1100000,
       "rating": 4.76,
       "popular": true,
-      "capacity": null,
+      "capacity": 22,
       "facilities": [
         "Lapangan sepak bola",
         "Mini soccer",
@@ -2090,7 +2090,7 @@
       ],
       "description": "Lapangan sepak bola ukuran internasional dengan rumput berstandar FIFA.",
       "schedule": [],
-      "image": "https://loremflickr.com/800/600/football,stadium?lock=97"
+      "image": "https://loremflickr.com/800/600/football-stadium,empty,stadium-field?lock=97"
     },
     {
       "id": 98,
@@ -2100,14 +2100,14 @@
       "pricePerHour": 30000,
       "rating": 4.94,
       "popular": true,
-      "capacity": null,
+      "capacity": 20,
       "facilities": [
         "Badminton",
         "Pickleball"
       ],
       "description": "Venue olahraga di kawasan Sentul yang menyediakan badminton dan pickleball.",
       "schedule": [],
-      "image": "https://loremflickr.com/800/600/badminton,court?lock=98"
+      "image": "https://loremflickr.com/800/600/badminton-court,empty,indoor-sports?lock=98"
     },
     {
       "id": 99,
@@ -2117,13 +2117,13 @@
       "pricePerHour": 300000,
       "rating": 5.0,
       "popular": true,
-      "capacity": null,
+      "capacity": 14,
       "facilities": [
         "Mini soccer"
       ],
       "description": "Arena mini soccer di Kabupaten Bogor yang tersedia untuk pemesanan sesi.",
       "schedule": [],
-      "image": "https://loremflickr.com/800/600/soccer,field?lock=99"
+      "image": "https://loremflickr.com/800/600/soccer-field,empty,turf?lock=99"
     },
     {
       "id": 100,
@@ -2133,13 +2133,13 @@
       "pricePerHour": 40000,
       "rating": 4.95,
       "popular": true,
-      "capacity": null,
+      "capacity": 20,
       "facilities": [
         "Badminton"
       ],
       "description": "Stadium badminton di Kabupaten Bogor yang tersedia untuk booking.",
       "schedule": [],
-      "image": "https://loremflickr.com/800/600/badminton,court?lock=100"
+      "image": "https://loremflickr.com/800/600/badminton-court,empty,indoor-sports?lock=100"
     }
   ]
 }
